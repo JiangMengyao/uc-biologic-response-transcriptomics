@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the associated manuscript and this repository."
+title: "Mucosal inflammation and biologic response in ulcerative colitis"
+type: software
+authors:
+  - family-names: Jiang
+    given-names: Mengyao
+    orcid: "https://orcid.org/0009-0003-6210-5270"
+  - family-names: Meng
+    given-names: Qingxi
+  - family-names: Xue
+    given-names: Linghan
+repository-code: "https://github.com/JiangMengyao/uc-biologic-response-transcriptomics"
+date-released: "2026-07-21"

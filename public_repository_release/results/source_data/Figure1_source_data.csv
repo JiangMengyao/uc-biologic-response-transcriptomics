@@ -1,0 +1,48 @@
+"panel","cohort","mechanism","n","events","endpoint","cohort_short","non_events","rct","longitudinal","y","response_rate","evidence","available","x","label","role"
+"a_cohort_lanes","GSE16879 IFX","anti-TNF",24,8,"Week 4–6 endoscopic response","IFX · 16879",16,FALSE,TRUE,7,NA,NA,NA,NA,NA,NA
+"a_cohort_lanes","GSE73661 IFX","anti-TNF",23,8,"Week 4–6 endoscopic response","IFX · 73661",15,FALSE,TRUE,6,NA,NA,NA,NA,NA,NA
+"a_cohort_lanes","GSE23597 IFX","anti-TNF",31,24,"Week 8 clinical response","IFX · 23597",7,TRUE,TRUE,5,NA,NA,NA,NA,NA,NA
+"a_cohort_lanes","GSE92415 golimumab","anti-TNF",59,32,"Week 6 clinical response","GLM · 92415",27,TRUE,TRUE,4,NA,NA,NA,NA,NA,NA
+"a_cohort_lanes","GSE206285 ustekinumab","anti-IL12/23",364,49,"Week 8 clinical remission","UST · 206285",315,TRUE,FALSE,3,NA,NA,NA,NA,NA,NA
+"a_cohort_lanes","GSE73661 VDZ trial","anti-integrin",27,6,"Week 6 response","VDZ trial · 73661",21,FALSE,TRUE,2,NA,NA,NA,NA,NA,NA
+"a_cohort_lanes","GSE73661 VDZ observational","anti-integrin",13,3,"Week 12 response","VDZ obs · 73661",10,FALSE,TRUE,1,NA,NA,NA,NA,NA,NA
+"b_outcome_counts","GSE16879 IFX","anti-TNF",24,8,"Week 4–6 endoscopic response","IFX · 16879",16,FALSE,TRUE,7,0.333333333333333,NA,NA,NA,NA,NA
+"b_outcome_counts","GSE73661 IFX","anti-TNF",23,8,"Week 4–6 endoscopic response","IFX · 73661",15,FALSE,TRUE,6,0.347826086956522,NA,NA,NA,NA,NA
+"b_outcome_counts","GSE23597 IFX","anti-TNF",31,24,"Week 8 clinical response","IFX · 23597",7,TRUE,TRUE,5,0.774193548387097,NA,NA,NA,NA,NA
+"b_outcome_counts","GSE92415 golimumab","anti-TNF",59,32,"Week 6 clinical response","GLM · 92415",27,TRUE,TRUE,4,0.542372881355932,NA,NA,NA,NA,NA
+"b_outcome_counts","GSE206285 ustekinumab","anti-IL12/23",364,49,"Week 8 clinical remission","UST · 206285",315,TRUE,FALSE,3,0.134615384615385,NA,NA,NA,NA,NA
+"b_outcome_counts","GSE73661 VDZ trial","anti-integrin",27,6,"Week 6 response","VDZ trial · 73661",21,FALSE,TRUE,2,0.222222222222222,NA,NA,NA,NA,NA
+"b_outcome_counts","GSE73661 VDZ observational","anti-integrin",13,3,"Week 12 response","VDZ obs · 73661",10,FALSE,TRUE,1,0.230769230769231,NA,NA,NA,NA,NA
+"c_evidence_matrix","GSE16879 IFX",NA,NA,NA,NA,"IFX · 16879",NA,NA,NA,NA,NA,"Baseline association",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE73661 IFX",NA,NA,NA,NA,"IFX · 73661",NA,NA,NA,NA,NA,"Baseline association",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE23597 IFX",NA,NA,NA,NA,"IFX · 23597",NA,NA,NA,NA,NA,"Baseline association",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE92415 golimumab",NA,NA,NA,NA,"GLM · 92415",NA,NA,NA,NA,NA,"Baseline association",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE206285 ustekinumab",NA,NA,NA,NA,"UST · 206285",NA,NA,NA,NA,NA,"Baseline association",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE73661 VDZ trial",NA,NA,NA,NA,"VDZ trial · 73661",NA,NA,NA,NA,NA,"Baseline association",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE73661 VDZ observational",NA,NA,NA,NA,"VDZ obs · 73661",NA,NA,NA,NA,NA,"Baseline association",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE16879 IFX",NA,NA,NA,NA,"IFX · 16879",NA,NA,NA,NA,NA,"RCT arm contrast",FALSE,NA,NA,NA
+"c_evidence_matrix","GSE73661 IFX",NA,NA,NA,NA,"IFX · 73661",NA,NA,NA,NA,NA,"RCT arm contrast",FALSE,NA,NA,NA
+"c_evidence_matrix","GSE23597 IFX",NA,NA,NA,NA,"IFX · 23597",NA,NA,NA,NA,NA,"RCT arm contrast",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE92415 golimumab",NA,NA,NA,NA,"GLM · 92415",NA,NA,NA,NA,NA,"RCT arm contrast",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE206285 ustekinumab",NA,NA,NA,NA,"UST · 206285",NA,NA,NA,NA,NA,"RCT arm contrast",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE73661 VDZ trial",NA,NA,NA,NA,"VDZ trial · 73661",NA,NA,NA,NA,NA,"RCT arm contrast",FALSE,NA,NA,NA
+"c_evidence_matrix","GSE73661 VDZ observational",NA,NA,NA,NA,"VDZ obs · 73661",NA,NA,NA,NA,NA,"RCT arm contrast",FALSE,NA,NA,NA
+"c_evidence_matrix","GSE16879 IFX",NA,NA,NA,NA,"IFX · 16879",NA,NA,NA,NA,NA,"Longitudinal tissue",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE73661 IFX",NA,NA,NA,NA,"IFX · 73661",NA,NA,NA,NA,NA,"Longitudinal tissue",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE23597 IFX",NA,NA,NA,NA,"IFX · 23597",NA,NA,NA,NA,NA,"Longitudinal tissue",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE92415 golimumab",NA,NA,NA,NA,"GLM · 92415",NA,NA,NA,NA,NA,"Longitudinal tissue",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE206285 ustekinumab",NA,NA,NA,NA,"UST · 206285",NA,NA,NA,NA,NA,"Longitudinal tissue",FALSE,NA,NA,NA
+"c_evidence_matrix","GSE73661 VDZ trial",NA,NA,NA,NA,"VDZ trial · 73661",NA,NA,NA,NA,NA,"Longitudinal tissue",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE73661 VDZ observational",NA,NA,NA,NA,"VDZ obs · 73661",NA,NA,NA,NA,NA,"Longitudinal tissue",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE16879 IFX",NA,NA,NA,NA,"IFX · 16879",NA,NA,NA,NA,NA,"Outcome interaction",FALSE,NA,NA,NA
+"c_evidence_matrix","GSE73661 IFX",NA,NA,NA,NA,"IFX · 73661",NA,NA,NA,NA,NA,"Outcome interaction",FALSE,NA,NA,NA
+"c_evidence_matrix","GSE23597 IFX",NA,NA,NA,NA,"IFX · 23597",NA,NA,NA,NA,NA,"Outcome interaction",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE92415 golimumab",NA,NA,NA,NA,"GLM · 92415",NA,NA,NA,NA,NA,"Outcome interaction",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE206285 ustekinumab",NA,NA,NA,NA,"UST · 206285",NA,NA,NA,NA,NA,"Outcome interaction",TRUE,NA,NA,NA
+"c_evidence_matrix","GSE73661 VDZ trial",NA,NA,NA,NA,"VDZ trial · 73661",NA,NA,NA,NA,NA,"Outcome interaction",FALSE,NA,NA,NA
+"c_evidence_matrix","GSE73661 VDZ observational",NA,NA,NA,NA,"VDZ obs · 73661",NA,NA,NA,NA,NA,"Outcome interaction",FALSE,NA,NA,NA
+"d_claim_hierarchy",NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,1,"Cross-mechanism","Primary"
+"d_claim_hierarchy",NA,NA,NA,NA,NA,NA,NA,NA,NA,1.17,NA,NA,NA,2,"RCT split","Disambiguation"
+"d_claim_hierarchy",NA,NA,NA,NA,NA,NA,NA,NA,NA,1.34,NA,NA,NA,3,"Paired change","Primary"
+"d_claim_hierarchy",NA,NA,NA,NA,NA,NA,NA,NA,NA,1.51,NA,NA,NA,4,"High-state flow","Descriptive"
+"d_claim_hierarchy",NA,NA,NA,NA,NA,NA,NA,NA,NA,1.68,NA,NA,NA,5,"Cell localization","Orthogonal"

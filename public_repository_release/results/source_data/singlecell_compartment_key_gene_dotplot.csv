@@ -1,0 +1,307 @@
+"compartment","state","gene","donors","samples","cells","mean_expression","pct_expressing","aggregation","mean_expression_z"
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOShi fibroblast","IL1B",14,22,1430,0.0121411837970139,0.00893356490773948,"Sample-first; samples equal-weighted",-0.357612496426422
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOShi fibroblast","IL6",14,22,1430,0.381760938270807,0.135399176315898,"Sample-first; samples equal-weighted",0.644863834068293
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOShi fibroblast","CXCL10",14,22,1430,0.882616371283134,0.0967332616878362,"Sample-first; samples equal-weighted",0.572567324731409
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOShi fibroblast","CCL2",14,22,1430,10.3899027223909,0.811733174361278,"Sample-first; samples equal-weighted",1.99901642348538
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOShi fibroblast","NFKB1",14,22,1430,0.22640022351781,0.17525978830249,"Sample-first; samples equal-weighted",-0.886441966521529
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOShi fibroblast","PLAUR",14,22,1430,0.178331059235724,0.127879228840438,"Sample-first; samples equal-weighted",-0.547504746279341
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOShi fibroblast","ICAM1",14,22,1430,3.45626253085318,0.701473549202919,"Sample-first; samples equal-weighted",1.77004481857946
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOShi fibroblast","CXCL8",14,22,1430,0.977957583349703,0.133980270843239,"Sample-first; samples equal-weighted",-0.265256712310377
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOShi fibroblast","OSM",14,22,1430,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOSlo fibroblast","IL1B",16,25,2950,0.0142830249950326,0.00876275396189041,"Sample-first; samples equal-weighted",-0.357229712855841
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOSlo fibroblast","IL6",16,25,2950,0.148664227723706,0.0480963442229665,"Sample-first; samples equal-weighted",-0.114737680568596
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOSlo fibroblast","CXCL10",16,25,2950,0.254940683409708,0.0459697469623818,"Sample-first; samples equal-weighted",-0.290647633315364
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOSlo fibroblast","CCL2",16,25,2950,8.2729120941268,0.747099836190051,"Sample-first; samples equal-weighted",1.46061853970139
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOSlo fibroblast","NFKB1",16,25,2950,0.345440463867516,0.253289793120062,"Sample-first; samples equal-weighted",-0.454867542106867
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOSlo fibroblast","PLAUR",16,25,2950,0.230500233552648,0.162552330566223,"Sample-first; samples equal-weighted",-0.510117041185512
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOSlo fibroblast","ICAM1",16,25,2950,1.42342654793508,0.355716340390765,"Sample-first; samples equal-weighted",0.251817979240724
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOSlo fibroblast","CXCL8",16,25,2950,0.499730674419096,0.0786591008392978,"Sample-first; samples equal-weighted",-0.388352081518979
+"Fibroblast/pericyte","ABCA8pos WNT2Bpos FOSlo fibroblast","OSM",16,25,2950,0.000555555555555556,0.000555555555555556,"Sample-first; samples equal-weighted",-0.365078267490765
+"Myeloid","C1Qhi IL1Bhi macro","IL1B",9,14,463,15.6145737355017,0.857173075806166,"Sample-first; samples equal-weighted",2.43080844132473
+"Myeloid","C1Qhi IL1Bhi macro","IL6",9,14,463,0.339392650717706,0.0724887468943411,"Sample-first; samples equal-weighted",0.506796611573518
+"Myeloid","C1Qhi IL1Bhi macro","CXCL10",9,14,463,1.61872740681496,0.195383204817669,"Sample-first; samples equal-weighted",1.58490868019666
+"Myeloid","C1Qhi IL1Bhi macro","CCL2",9,14,463,1.08860575403252,0.188178268167547,"Sample-first; samples equal-weighted",-0.366510630508704
+"Myeloid","C1Qhi IL1Bhi macro","NFKB1",9,14,463,1.22128399359371,0.554394572956098,"Sample-first; samples equal-weighted",2.72045927266145
+"Myeloid","C1Qhi IL1Bhi macro","PLAUR",9,14,463,4.66861030265007,0.816816731282021,"Sample-first; samples equal-weighted",2.67051122464343
+"Myeloid","C1Qhi IL1Bhi macro","ICAM1",9,14,463,2.94921705431785,0.719496811900022,"Sample-first; samples equal-weighted",1.39135708493546
+"Myeloid","C1Qhi IL1Bhi macro","CXCL8",9,14,463,17.6933535753205,0.739737976227943,"Sample-first; samples equal-weighted",4.0372779269485
+"Myeloid","C1Qhi IL1Bhi macro","OSM",9,14,463,0.624659933209483,0.296448847935022,"Sample-first; samples equal-weighted",3.46634586292818
+"Myeloid","C1Qhi IL1Blo macro","IL1B",12,17,549,6.77166354219497,0.490807367948323,"Sample-first; samples equal-weighted",0.850429493878131
+"Myeloid","C1Qhi IL1Blo macro","IL6",12,17,549,0.680316217780063,0.117361420889082,"Sample-first; samples equal-weighted",1.61777778890613
+"Myeloid","C1Qhi IL1Blo macro","CXCL10",12,17,549,1.90825283401752,0.193916614575138,"Sample-first; samples equal-weighted",1.98308035439815
+"Myeloid","C1Qhi IL1Blo macro","CCL2",12,17,549,0.465170105515578,0.0943981200431099,"Sample-first; samples equal-weighted",-0.52506420620982
+"Myeloid","C1Qhi IL1Blo macro","NFKB1",12,17,549,0.841131352670631,0.371329868227036,"Sample-first; samples equal-weighted",1.34223492840511
+"Myeloid","C1Qhi IL1Blo macro","PLAUR",12,17,549,2.97567607410472,0.53517342580233,"Sample-first; samples equal-weighted",1.45724828711657
+"Myeloid","C1Qhi IL1Blo macro","ICAM1",12,17,549,1.98456186050729,0.472003534908011,"Sample-first; samples equal-weighted",0.670902794349585
+"Myeloid","C1Qhi IL1Blo macro","CXCL8",12,17,549,13.733313807291,0.469314614277909,"Sample-first; samples equal-weighted",3.01796565442
+"Myeloid","C1Qhi IL1Blo macro","OSM",12,17,549,0.267612853614997,0.126696991031808,"Sample-first; samples equal-weighted",1.27440674915946
+"Fibroblast/pericyte","C3hi CCL19pos fibroblast","IL1B",4,5,199,0.0102564102564103,0.0102564102564103,"Sample-first; samples equal-weighted",-0.357949337620007
+"Fibroblast/pericyte","C3hi CCL19pos fibroblast","IL6",4,5,199,1.17642555240598,0.269014075957972,"Sample-first; samples equal-weighted",3.23446899455574
+"Fibroblast/pericyte","C3hi CCL19pos fibroblast","CXCL10",4,5,199,2.85337266957246,0.178886486090779,"Sample-first; samples equal-weighted",3.28286238349317
+"Fibroblast/pericyte","C3hi CCL19pos fibroblast","CCL2",4,5,199,12.5331763084229,0.809097218045376,"Sample-first; samples equal-weighted",2.54409864901984
+"Fibroblast/pericyte","C3hi CCL19pos fibroblast","NFKB1",4,5,199,0.413186855228992,0.268941771293227,"Sample-first; samples equal-weighted",-0.209256396059886
+"Fibroblast/pericyte","C3hi CCL19pos fibroblast","PLAUR",4,5,199,0.278274664655159,0.21017187394525,"Sample-first; samples equal-weighted",-0.475878884947209
+"Fibroblast/pericyte","C3hi CCL19pos fibroblast","ICAM1",4,5,199,2.1249703819419,0.52079451624942,"Sample-first; samples equal-weighted",0.775767125513124
+"Fibroblast/pericyte","C3hi CCL19pos fibroblast","CXCL8",4,5,199,1.61890118613862,0.148624785877212,"Sample-first; samples equal-weighted",-0.100278146792973
+"Fibroblast/pericyte","C3hi CCL19pos fibroblast","OSM",4,5,199,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Fibroblast/pericyte","C3hi RSPO3pos fibroblast","IL1B",10,18,1060,0.00120242193412925,0.00120242193412925,"Sample-first; samples equal-weighted",-0.35956743983095
+"Fibroblast/pericyte","C3hi RSPO3pos fibroblast","IL6",10,18,1060,0.242764845587389,0.0859003672468786,"Sample-first; samples equal-weighted",0.191911742710489
+"Fibroblast/pericyte","C3hi RSPO3pos fibroblast","CXCL10",10,18,1060,0.186233761853717,0.0316327522283745,"Sample-first; samples equal-weighted",-0.385137261564972
+"Fibroblast/pericyte","C3hi RSPO3pos fibroblast","CCL2",10,18,1060,6.04421003921177,0.638895791581881,"Sample-first; samples equal-weighted",0.893809951164922
+"Fibroblast/pericyte","C3hi RSPO3pos fibroblast","NFKB1",10,18,1060,0.268686231480031,0.215073718973207,"Sample-first; samples equal-weighted",-0.733136164269471
+"Fibroblast/pericyte","C3hi RSPO3pos fibroblast","PLAUR",10,18,1060,0.173300575831383,0.138600494761413,"Sample-first; samples equal-weighted",-0.551109906461834
+"Fibroblast/pericyte","C3hi RSPO3pos fibroblast","ICAM1",10,18,1060,1.19253355616779,0.307484944160448,"Sample-first; samples equal-weighted",0.0793751751670227
+"Fibroblast/pericyte","C3hi RSPO3pos fibroblast","CXCL8",10,18,1060,0.0256982796977434,0.0129180652727921,"Sample-first; samples equal-weighted",-0.510367784850156
+"Fibroblast/pericyte","C3hi RSPO3pos fibroblast","OSM",10,18,1060,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Myeloid","CD1Chi DC","IL1B",11,15,491,19.7379581050937,0.919186596300471,"Sample-first; samples equal-weighted",3.16772758982698
+"Myeloid","CD1Chi DC","IL6",11,15,491,0.0776905160535815,0.0185366209125718,"Sample-first; samples equal-weighted",-0.346022535500666
+"Myeloid","CD1Chi DC","CXCL10",11,15,491,0.812730993136758,0.0899775093356663,"Sample-first; samples equal-weighted",0.476457016605421
+"Myeloid","CD1Chi DC","CCL2",11,15,491,0.1822168211443,0.072922932604136,"Sample-first; samples equal-weighted",-0.597025530686795
+"Myeloid","CD1Chi DC","NFKB1",11,15,491,1.12982589677415,0.551870730735296,"Sample-first; samples equal-weighted",2.38888252704161
+"Myeloid","CD1Chi DC","PLAUR",11,15,491,3.15510982959715,0.763885001972274,"Sample-first; samples equal-weighted",1.58584177976943
+"Myeloid","CD1Chi DC","ICAM1",11,15,491,1.6238720624942,0.601361791829381,"Sample-first; samples equal-weighted",0.401521035751891
+"Myeloid","CD1Chi DC","CXCL8",11,15,491,5.68055568822795,0.562054751228936,"Sample-first; samples equal-weighted",0.945189707892336
+"Myeloid","CD1Chi DC","OSM",11,15,491,0.587349717249869,0.275717087651166,"Sample-first; samples equal-weighted",3.23729561611501
+"Fibroblast/pericyte","CD74hi HLADRB1hi arterial pericyte","IL1B",17,31,2801,0.00758176640095059,0.00559723733512235,"Sample-first; samples equal-weighted",-0.358427342117246
+"Fibroblast/pericyte","CD74hi HLADRB1hi arterial pericyte","IL6",17,31,2801,0.282654035179206,0.132160405927098,"Sample-first; samples equal-weighted",0.321900230151886
+"Fibroblast/pericyte","CD74hi HLADRB1hi arterial pericyte","CXCL10",17,31,2801,0.357286166731004,0.0514151367042246,"Sample-first; samples equal-weighted",-0.149896360327896
+"Fibroblast/pericyte","CD74hi HLADRB1hi arterial pericyte","CCL2",17,31,2801,2.66225914331586,0.466685432882448,"Sample-first; samples equal-weighted",0.0337044877293973
+"Fibroblast/pericyte","CD74hi HLADRB1hi arterial pericyte","NFKB1",17,31,2801,0.566408303867639,0.360891481392317,"Sample-first; samples equal-weighted",0.346240285649965
+"Fibroblast/pericyte","CD74hi HLADRB1hi arterial pericyte","PLAUR",17,31,2801,0.19257054171844,0.144076027541625,"Sample-first; samples equal-weighted",-0.537299839287362
+"Fibroblast/pericyte","CD74hi HLADRB1hi arterial pericyte","ICAM1",17,31,2801,3.37215964093634,0.670266065130892,"Sample-first; samples equal-weighted",1.70723243931687
+"Fibroblast/pericyte","CD74hi HLADRB1hi arterial pericyte","CXCL8",17,31,2801,0.109921467492854,0.0379331377540715,"Sample-first; samples equal-weighted",-0.488688778077518
+"Fibroblast/pericyte","CD74hi HLADRB1hi arterial pericyte","OSM",17,31,2801,0.0015261508373928,0.0012129657450032,"Sample-first; samples equal-weighted",-0.359119709408411
+"Fibroblast/pericyte","CD74hi HLADRB1hi venous pericyte","IL1B",2,3,79,0.00980392156862745,0.00980392156862745,"Sample-first; samples equal-weighted",-0.358030205069805
+"Fibroblast/pericyte","CD74hi HLADRB1hi venous pericyte","IL6",2,3,79,0.687908496732026,0.225606909430439,"Sample-first; samples equal-weighted",1.64251905006731
+"Fibroblast/pericyte","CD74hi HLADRB1hi venous pericyte","CXCL10",2,3,79,0.716269841269841,0.0892857142857143,"Sample-first; samples equal-weighted",0.34379820765258
+"Fibroblast/pericyte","CD74hi HLADRB1hi venous pericyte","CCL2",2,3,79,8.74183006535948,0.699463118580766,"Sample-first; samples equal-weighted",1.57987482738131
+"Fibroblast/pericyte","CD74hi HLADRB1hi venous pericyte","NFKB1",2,3,79,0.589869281045752,0.390989729225023,"Sample-first; samples equal-weighted",0.431296882411737
+"Fibroblast/pericyte","CD74hi HLADRB1hi venous pericyte","PLAUR",2,3,79,0.189775910364146,0.164098972922502,"Sample-first; samples equal-weighted",-0.539302647541248
+"Fibroblast/pericyte","CD74hi HLADRB1hi venous pericyte","ICAM1",2,3,79,5.39519140989729,0.735877684407096,"Sample-first; samples equal-weighted",3.21813698561601
+"Fibroblast/pericyte","CD74hi HLADRB1hi venous pericyte","CXCL8",2,3,79,1,0.0784313725490196,"Sample-first; samples equal-weighted",-0.259583005195305
+"Fibroblast/pericyte","CD74hi HLADRB1hi venous pericyte","OSM",2,3,79,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Myeloid","Mast","IL1B",10,13,631,0.0653103968181924,0.0409086295023961,"Sample-first; samples equal-weighted",-0.348110250777182
+"Myeloid","Mast","IL6",10,13,631,0.00307692307692308,0.00307692307692308,"Sample-first; samples equal-weighted",-0.589168816306366
+"Myeloid","Mast","CXCL10",10,13,631,0.00207900207900208,0.00207900207900208,"Sample-first; samples equal-weighted",-0.638397259210604
+"Myeloid","Mast","CCL2",10,13,631,0.0416716714065025,0.0304993298868727,"Sample-first; samples equal-weighted",-0.63276929364194
+"Myeloid","Mast","NFKB1",10,13,631,0.198699149748532,0.129785200681425,"Sample-first; samples equal-weighted",-0.986870820936842
+"Myeloid","Mast","PLAUR",10,13,631,0.356557586830175,0.216958504227894,"Sample-first; samples equal-weighted",-0.419776428918628
+"Myeloid","Mast","ICAM1",10,13,631,0.247296114359276,0.155948731180433,"Sample-first; samples equal-weighted",-0.626576935952899
+"Myeloid","Mast","CXCL8",10,13,631,0.0326192809619332,0.0190224138048772,"Sample-first; samples equal-weighted",-0.508586322556841
+"Myeloid","Mast","OSM",10,13,631,0.101598028885547,0.0696144610255467,"Sample-first; samples equal-weighted",0.255229143216765
+"Fibroblast/pericyte","Myofibroblast","IL1B",9,13,719,0.0142122662011904,0.00817908369741962,"Sample-first; samples equal-weighted",-0.357242358659732
+"Fibroblast/pericyte","Myofibroblast","IL6",9,13,719,0.0152293558776218,0.00808681414839808,"Sample-first; samples equal-weighted",-0.549567200563837
+"Fibroblast/pericyte","Myofibroblast","CXCL10",9,13,719,0.449324244666285,0.0321710855640147,"Sample-first; samples equal-weighted",-0.0233204117631478
+"Fibroblast/pericyte","Myofibroblast","CCL2",9,13,719,4.43944569572847,0.531973350383116,"Sample-first; samples equal-weighted",0.485682624114874
+"Fibroblast/pericyte","Myofibroblast","NFKB1",9,13,719,0.267016571876711,0.219292264656834,"Sample-first; samples equal-weighted",-0.739189431468481
+"Fibroblast/pericyte","Myofibroblast","PLAUR",9,13,719,0.236749918559832,0.175912637437012,"Sample-first; samples equal-weighted",-0.505638124602351
+"Fibroblast/pericyte","Myofibroblast","ICAM1",9,13,719,0.67911054734568,0.232002777345954,"Sample-first; samples equal-weighted",-0.304075628772815
+"Fibroblast/pericyte","Myofibroblast","CXCL8",9,13,719,0.139292168041837,0.03530441896224,"Sample-first; samples equal-weighted",-0.481128774320981
+"Fibroblast/pericyte","Myofibroblast","OSM",9,13,719,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Colonic epithelium","Non ileal BEST4 OTOP2","IL1B",10,16,1509,0.290632340914107,0.112792988139806,"Sample-first; samples equal-weighted",-0.307841374461277
+"Colonic epithelium","Non ileal BEST4 OTOP2","IL6",10,16,1509,0.00142045454545455,0.00142045454545455,"Sample-first; samples equal-weighted",-0.594566816142994
+"Colonic epithelium","Non ileal BEST4 OTOP2","CXCL10",10,16,1509,0.015361094494159,0.00866466592273044,"Sample-first; samples equal-weighted",-0.620130977644454
+"Colonic epithelium","Non ileal BEST4 OTOP2","CCL2",10,16,1509,0.0292227698824443,0.0292227698824443,"Sample-first; samples equal-weighted",-0.63593532666377
+"Colonic epithelium","Non ileal BEST4 OTOP2","NFKB1",10,16,1509,0.343164161121939,0.232873414538545,"Sample-first; samples equal-weighted",-0.463120163609731
+"Colonic epithelium","Non ileal BEST4 OTOP2","PLAUR",10,16,1509,0.462548792534671,0.171039235709352,"Sample-first; samples equal-weighted",-0.343816477600527
+"Colonic epithelium","Non ileal BEST4 OTOP2","ICAM1",10,16,1509,0.0202592077967461,0.0202592077967461,"Sample-first; samples equal-weighted",-0.79613981655917
+"Colonic epithelium","Non ileal BEST4 OTOP2","CXCL8",10,16,1509,0.248965678988482,0.0618127767424944,"Sample-first; samples equal-weighted",-0.452898866989815
+"Colonic epithelium","Non ileal BEST4 OTOP2","OSM",10,16,1509,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Colonic epithelium","Non ileal CT colonocyte","IL1B",17,28,5724,0.225496418834832,0.111290243923217,"Sample-first; samples equal-weighted",-0.319482275219776
+"Colonic epithelium","Non ileal CT colonocyte","IL6",17,28,5724,0.00232006437255341,0.00219296727036734,"Sample-first; samples equal-weighted",-0.591635221846178
+"Colonic epithelium","Non ileal CT colonocyte","CXCL10",17,28,5724,0.0400778729354696,0.0109574823117214,"Sample-first; samples equal-weighted",-0.586139071828325
+"Colonic epithelium","Non ileal CT colonocyte","CCL2",17,28,5724,0.0232309624333262,0.0218652156644191,"Sample-first; samples equal-weighted",-0.637459176796867
+"Colonic epithelium","Non ileal CT colonocyte","NFKB1",17,28,5724,0.277500964930955,0.216158503409828,"Sample-first; samples equal-weighted",-0.701178789987669
+"Colonic epithelium","Non ileal CT colonocyte","PLAUR",17,28,5724,2.99718480882359,0.525920496372037,"Sample-first; samples equal-weighted",1.47266279656855
+"Colonic epithelium","Non ileal CT colonocyte","ICAM1",17,28,5724,0.0993858316447688,0.0500430831154454,"Sample-first; samples equal-weighted",-0.73704396965278
+"Colonic epithelium","Non ileal CT colonocyte","CXCL8",17,28,5724,0.328906768760955,0.0877057006454865,"Sample-first; samples equal-weighted",-0.432322070124734
+"Colonic epithelium","Non ileal CT colonocyte","OSM",17,28,5724,0.0017374998893198,0.0017374998893198,"Sample-first; samples equal-weighted",-0.357822221541817
+"Colonic epithelium","Non ileal EEC DDCpos CHGApos","IL1B",5,5,168,0.0149732620320856,0.0149732620320856,"Sample-first; samples equal-weighted",-0.357106355719077
+"Colonic epithelium","Non ileal EEC DDCpos CHGApos","IL6",5,5,168,0,0,"Sample-first; samples equal-weighted",-0.59919570782348
+"Colonic epithelium","Non ileal EEC DDCpos CHGApos","CXCL10",5,5,168,0.0695187165775401,0.0240641711229947,"Sample-first; samples equal-weighted",-0.545650365478309
+"Colonic epithelium","Non ileal EEC DDCpos CHGApos","CCL2",5,5,168,0.0154684095860566,0.0154684095860566,"Sample-first; samples equal-weighted",-0.639433366937311
+"Colonic epithelium","Non ileal EEC DDCpos CHGApos","NFKB1",5,5,168,0.516898395721925,0.34330107800696,"Sample-first; samples equal-weighted",0.166744595385575
+"Colonic epithelium","Non ileal EEC DDCpos CHGApos","PLAUR",5,5,168,0.200725744843392,0.0825439266615737,"Sample-first; samples equal-weighted",-0.53145530880728
+"Colonic epithelium","Non ileal EEC DDCpos CHGApos","ICAM1",5,5,168,0.0469646040234276,0.0469646040234276,"Sample-first; samples equal-weighted",-0.776194848225659
+"Colonic epithelium","Non ileal EEC DDCpos CHGApos","CXCL8",5,5,168,0.396218204453499,0.0944243556008262,"Sample-first; samples equal-weighted",-0.41499613995685
+"Colonic epithelium","Non ileal EEC DDCpos CHGApos","OSM",5,5,168,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Colonic epithelium","Non ileal EEC GCGpos PYYpos","IL1B",4,4,114,0.0113636363636364,0.0113636363636364,"Sample-first; samples equal-weighted",-0.357751457420879
+"Colonic epithelium","Non ileal EEC GCGpos PYYpos","IL6",4,4,114,0,0,"Sample-first; samples equal-weighted",-0.59919570782348
+"Colonic epithelium","Non ileal EEC GCGpos PYYpos","CXCL10",4,4,114,0,0,"Sample-first; samples equal-weighted",-0.641256419963644
+"Colonic epithelium","Non ileal EEC GCGpos PYYpos","CCL2",4,4,114,0.0875527597402597,0.0875527597402597,"Sample-first; samples equal-weighted",-0.621100710637934
+"Colonic epithelium","Non ileal EEC GCGpos PYYpos","NFKB1",4,4,114,0.391205357142857,0.26867288961039,"Sample-first; samples equal-weighted",-0.288949215533592
+"Colonic epithelium","Non ileal EEC GCGpos PYYpos","PLAUR",4,4,114,0.0897159090909091,0.0669886363636364,"Sample-first; samples equal-weighted",-0.611011925448647
+"Colonic epithelium","Non ileal EEC GCGpos PYYpos","ICAM1",4,4,114,0.05,0.04,"Sample-first; samples equal-weighted",-0.773927857834709
+"Colonic epithelium","Non ileal EEC GCGpos PYYpos","CXCL8",4,4,114,0.342414772727273,0.145316558441558,"Sample-first; samples equal-weighted",-0.42884511660235
+"Colonic epithelium","Non ileal EEC GCGpos PYYpos","OSM",4,4,114,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Colonic epithelium","Non ileal EEC NEUROG3pos","IL1B",1,1,25,0,0,"Sample-first; samples equal-weighted",-0.359782333148772
+"Colonic epithelium","Non ileal EEC NEUROG3pos","IL6",1,1,25,0,0,"Sample-first; samples equal-weighted",-0.59919570782348
+"Colonic epithelium","Non ileal EEC NEUROG3pos","CXCL10",1,1,25,0,0,"Sample-first; samples equal-weighted",-0.641256419963644
+"Colonic epithelium","Non ileal EEC NEUROG3pos","CCL2",1,1,25,0,0,"Sample-first; samples equal-weighted",-0.64336732813461
+"Colonic epithelium","Non ileal EEC NEUROG3pos","NFKB1",1,1,25,0.4,0.32,"Sample-first; samples equal-weighted",-0.257064678692489
+"Colonic epithelium","Non ileal EEC NEUROG3pos","PLAUR",1,1,25,0,0,"Sample-first; samples equal-weighted",-0.67530797757588
+"Colonic epithelium","Non ileal EEC NEUROG3pos","ICAM1",1,1,25,0,0,"Sample-first; samples equal-weighted",-0.811270438645369
+"Colonic epithelium","Non ileal EEC NEUROG3pos","CXCL8",1,1,25,0.24,0.12,"Sample-first; samples equal-weighted",-0.455206628315419
+"Colonic epithelium","Non ileal EEC NEUROG3pos","OSM",1,1,25,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos","IL1B",14,23,1660,0.52498663074052,0.187280738311132,"Sample-first; samples equal-weighted",-0.265958263834891
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos","IL6",14,23,1660,0.00162437742778007,0.00162437742778007,"Sample-first; samples equal-weighted",-0.59390228454184
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos","CXCL10",14,23,1660,0.0297687890294966,0.00933089476907959,"Sample-first; samples equal-weighted",-0.60031670464623
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos","CCL2",14,23,1660,0.0276342907484848,0.0276342907484848,"Sample-first; samples equal-weighted",-0.6363393122992
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos","NFKB1",14,23,1660,0.51155955802945,0.310903337074358,"Sample-first; samples equal-weighted",0.147388906944384
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos","PLAUR",14,23,1660,3.69733164003783,0.546517224921114,"Sample-first; samples equal-weighted",1.97443196563368
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos","ICAM1",14,23,1660,0.0819374285577966,0.0589947273377451,"Sample-first; samples equal-weighted",-0.750075337698625
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos","CXCL8",14,23,1660,1.5552181177491,0.217823419656504,"Sample-first; samples equal-weighted",-0.116670137016346
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos","OSM",14,23,1660,0.00266183686602582,0.00266183686602582,"Sample-first; samples equal-weighted",-0.352147646704668
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos CXCL11pos","IL1B",14,18,593,0.216119035209285,0.0769587712128645,"Sample-first; samples equal-weighted",-0.321158173689848
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos CXCL11pos","IL6",14,18,593,0.00222222222222222,0.00222222222222222,"Sample-first; samples equal-weighted",-0.591954063950008
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos CXCL11pos","CXCL10",14,18,593,0.488814587599462,0.0545245117450589,"Sample-first; samples equal-weighted",0.0309889320220287
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos CXCL11pos","CCL2",14,18,593,0.0255827254825959,0.0255827254825959,"Sample-first; samples equal-weighted",-0.63686107105564
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos CXCL11pos","NFKB1",14,18,593,0.570988496189155,0.358523409292049,"Sample-first; samples equal-weighted",0.362845543326358
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos CXCL11pos","PLAUR",14,18,593,3.3930388394728,0.501021945593087,"Sample-first; samples equal-weighted",1.75635664359413
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos CXCL11pos","ICAM1",14,18,593,0.438775296591967,0.159942962624792,"Sample-first; samples equal-weighted",-0.483570399231231
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos CXCL11pos","CXCL8",14,18,593,2.75533998481658,0.32597847447732,"Sample-first; samples equal-weighted",0.192240636432886
+"Colonic epithelium","Non ileal enterocyte DUOXA2pos CXCL11pos","OSM",14,18,593,0.00142450142450142,0.00142450142450142,"Sample-first; samples equal-weighted",-0.35974374286714
+"Colonic epithelium","Non ileal enterocyte PLCG2hi","IL1B",18,29,3729,0.0177566811891068,0.0146518514764806,"Sample-first; samples equal-weighted",-0.356608911219301
+"Colonic epithelium","Non ileal enterocyte PLCG2hi","IL6",18,29,3729,0.00076252118508896,0.00076252118508896,"Sample-first; samples equal-weighted",-0.596710849732704
+"Colonic epithelium","Non ileal enterocyte PLCG2hi","CXCL10",18,29,3729,0.00407278077486541,0.00308034322017463,"Sample-first; samples equal-weighted",-0.635655302454026
+"Colonic epithelium","Non ileal enterocyte PLCG2hi","CCL2",18,29,3729,0.0141361695951998,0.0135327448538441,"Sample-first; samples equal-weighted",-0.639772185249586
+"Colonic epithelium","Non ileal enterocyte PLCG2hi","NFKB1",18,29,3729,0.181844451638635,0.116773316193907,"Sample-first; samples equal-weighted",-1.04797668408104
+"Colonic epithelium","Non ileal enterocyte PLCG2hi","PLAUR",18,29,3729,0.127159508302127,0.0832296214430207,"Sample-first; samples equal-weighted",-0.584177491833577
+"Colonic epithelium","Non ileal enterocyte PLCG2hi","ICAM1",18,29,3729,0.0166384765343381,0.0162372763433986,"Sample-first; samples equal-weighted",-0.798843965554373
+"Colonic epithelium","Non ileal enterocyte PLCG2hi","CXCL8",18,29,3729,0.171597036711131,0.0713391318275699,"Sample-first; samples equal-weighted",-0.472813517145314
+"Colonic epithelium","Non ileal enterocyte PLCG2hi","OSM",18,29,3729,0.000931966449207829,0.000931966449207829,"Sample-first; samples equal-weighted",-0.362767452453201
+"Colonic epithelium","Non ileal goblet","IL1B",16,27,2885,0.0703965529042071,0.034994051333527,"Sample-first; samples equal-weighted",-0.347201267894165
+"Colonic epithelium","Non ileal goblet","IL6",16,27,2885,0.00325199169117583,0.00325199169117583,"Sample-first; samples equal-weighted",-0.588598313255337
+"Colonic epithelium","Non ileal goblet","CXCL10",16,27,2885,0.0108763804648385,0.00670511458306859,"Sample-first; samples equal-weighted",-0.62629860896659
+"Colonic epithelium","Non ileal goblet","CCL2",16,27,2885,0.0308772890312646,0.0296384898126167,"Sample-first; samples equal-weighted",-0.635514545581174
+"Colonic epithelium","Non ileal goblet","NFKB1",16,27,2885,0.484596508744711,0.314950545280883,"Sample-first; samples equal-weighted",0.0496357233037914
+"Colonic epithelium","Non ileal goblet","PLAUR",16,27,2885,0.469681610453347,0.208523575619504,"Sample-first; samples equal-weighted",-0.338704652536719
+"Colonic epithelium","Non ileal goblet","ICAM1",16,27,2885,0.0539104955495737,0.0505564280094155,"Sample-first; samples equal-weighted",-0.771007297913315
+"Colonic epithelium","Non ileal goblet","CXCL8",16,27,2885,0.583957441549363,0.157824197916705,"Sample-first; samples equal-weighted",-0.366672153427246
+"Colonic epithelium","Non ileal goblet","OSM",16,27,2885,0.000339789330615019,0.000339789330615019,"Sample-first; samples equal-weighted",-0.366402872717657
+"Colonic epithelium","Non ileal LGR5pos stem","IL1B",18,29,4322,0.0181358864117462,0.0165343892428039,"Sample-first; samples equal-weighted",-0.356541140775236
+"Colonic epithelium","Non ileal LGR5pos stem","IL6",18,29,4322,0.00194199945770763,0.00194199945770763,"Sample-first; samples equal-weighted",-0.592867237009643
+"Colonic epithelium","Non ileal LGR5pos stem","CXCL10",18,29,4322,0.0215358063059762,0.00880310574509516,"Sample-first; samples equal-weighted",-0.611639166187414
+"Colonic epithelium","Non ileal LGR5pos stem","CCL2",18,29,4322,0.0228310948012346,0.0222164789963691,"Sample-first; samples equal-weighted",-0.637560872044847
+"Colonic epithelium","Non ileal LGR5pos stem","NFKB1",18,29,4322,0.392551211286025,0.279940372906027,"Sample-first; samples equal-weighted",-0.284069888799392
+"Colonic epithelium","Non ileal LGR5pos stem","PLAUR",18,29,4322,0.184909709858664,0.129131796347132,"Sample-first; samples equal-weighted",-0.542790072286005
+"Colonic epithelium","Non ileal LGR5pos stem","ICAM1",18,29,4322,0.0647873192923145,0.0529917162521075,"Sample-first; samples equal-weighted",-0.762883924521783
+"Colonic epithelium","Non ileal LGR5pos stem","CXCL8",18,29,4322,1.01324509004848,0.231344040308893,"Sample-first; samples equal-weighted",-0.256173725584994
+"Colonic epithelium","Non ileal LGR5pos stem","OSM",18,29,4322,0.000992005931991752,0.000992005931991752,"Sample-first; samples equal-weighted",-0.362398865512695
+"Colonic epithelium","Non ileal M like","IL1B",4,4,160,2.2086873270801,0.374586960433678,"Sample-first; samples equal-weighted",0.034947781361665
+"Colonic epithelium","Non ileal M like","IL6",4,4,160,0.00862068965517241,0.00862068965517241,"Sample-first; samples equal-weighted",-0.571103123831565
+"Colonic epithelium","Non ileal M like","CXCL10",4,4,160,0.00892857142857143,0.00892857142857143,"Sample-first; samples equal-weighted",-0.628977345658178
+"Colonic epithelium","Non ileal M like","CCL2",4,4,160,0.0186073059360731,0.0186073059360731,"Sample-first; samples equal-weighted",-0.638635075660202
+"Colonic epithelium","Non ileal M like","NFKB1",4,4,160,0.900101502575522,0.468516487842185,"Sample-first; samples equal-weighted",1.55602825096633
+"Colonic epithelium","Non ileal M like","PLAUR",4,4,160,0.402403446026498,0.118111602222372,"Sample-first; samples equal-weighted",-0.386920408369166
+"Colonic epithelium","Non ileal M like","ICAM1",4,4,160,0.694796095103133,0.374942078862721,"Sample-first; samples equal-weighted",-0.292360852078971
+"Colonic epithelium","Non ileal M like","CXCL8",4,4,160,0.143398958544211,0.0620391614368941,"Sample-first; samples equal-weighted",-0.480071688482205
+"Colonic epithelium","Non ileal M like","OSM",4,4,160,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Colonic epithelium","Non ileal paneth","IL1B",3,3,105,0.0166666666666667,0.0166666666666667,"Sample-first; samples equal-weighted",-0.356803715414528
+"Colonic epithelium","Non ileal paneth","IL6",3,3,105,0,0,"Sample-first; samples equal-weighted",-0.59919570782348
+"Colonic epithelium","Non ileal paneth","CXCL10",3,3,105,0.195480225988701,0.0446327683615819,"Sample-first; samples equal-weighted",-0.372421003305229
+"Colonic epithelium","Non ileal paneth","CCL2",3,3,105,0.0554106910039113,0.0497609734897871,"Sample-first; samples equal-weighted",-0.629275154849943
+"Colonic epithelium","Non ileal paneth","NFKB1",3,3,105,0.346697088222512,0.214276401564537,"Sample-first; samples equal-weighted",-0.450311713496982
+"Colonic epithelium","Non ileal paneth","PLAUR",3,3,105,0.209995654063451,0.142199043893959,"Sample-first; samples equal-weighted",-0.524811909966795
+"Colonic epithelium","Non ileal paneth","ICAM1",3,3,105,0.105693176879618,0.0872229465449804,"Sample-first; samples equal-weighted",-0.732333318670119
+"Colonic epithelium","Non ileal paneth","CXCL8",3,3,105,1.15108648413733,0.335397653194263,"Sample-first; samples equal-weighted",-0.220693419101326
+"Colonic epithelium","Non ileal paneth","OSM",3,3,105,0.0166666666666667,0.0166666666666667,"Sample-first; samples equal-weighted",-0.266170933895356
+"Colonic epithelium","Non ileal TA","IL1B",18,33,7765,0.027207976297831,0.0219672507809951,"Sample-first; samples equal-weighted",-0.354919803505956
+"Colonic epithelium","Non ileal TA","IL6",18,33,7765,0.00206483496883614,0.00183869295164934,"Sample-first; samples equal-weighted",-0.592466948047669
+"Colonic epithelium","Non ileal TA","CXCL10",18,33,7765,0.0259015792709875,0.0138326933654439,"Sample-first; samples equal-weighted",-0.60563510931594
+"Colonic epithelium","Non ileal TA","CCL2",18,33,7765,0.0259757771958691,0.0255377863605669,"Sample-first; samples equal-weighted",-0.636761109247676
+"Colonic epithelium","Non ileal TA","NFKB1",18,33,7765,0.466237564352121,0.301085637326814,"Sample-first; samples equal-weighted",-0.0169237093369417
+"Colonic epithelium","Non ileal TA","PLAUR",18,33,7765,0.397187508327605,0.198097184849447,"Sample-first; samples equal-weighted",-0.390658476740525
+"Colonic epithelium","Non ileal TA","ICAM1",18,33,7765,0.0480547004429827,0.0413821393566431,"Sample-first; samples equal-weighted",-0.775380707952886
+"Colonic epithelium","Non ileal TA","CXCL8",18,33,7765,0.997665917522958,0.201005922302504,"Sample-first; samples equal-weighted",-0.260183796867437
+"Colonic epithelium","Non ileal TA","OSM",18,33,7765,0.00119112626538322,0.00119112626538322,"Sample-first; samples equal-weighted",-0.361176450677085
+"Colonic epithelium","Non ileal tuft","IL1B",7,8,265,0.00888480392156863,0.00888480392156863,"Sample-first; samples equal-weighted",-0.358194467077208
+"Colonic epithelium","Non ileal tuft","IL6",7,8,265,0,0,"Sample-first; samples equal-weighted",-0.59919570782348
+"Colonic epithelium","Non ileal tuft","CXCL10",7,8,265,0.00568181818181818,0.00568181818181818,"Sample-first; samples equal-weighted",-0.633442463587438
+"Colonic epithelium","Non ileal tuft","CCL2",7,8,265,0.0113295318127251,0.0113295318127251,"Sample-first; samples equal-weighted",-0.640485975770176
+"Colonic epithelium","Non ileal tuft","NFKB1",7,8,265,0.121911264505802,0.100487164562795,"Sample-first; samples equal-weighted",-1.26526144983926
+"Colonic epithelium","Non ileal tuft","PLAUR",7,8,265,0.0240231825053254,0.0240231825053254,"Sample-first; samples equal-weighted",-0.658091457002486
+"Colonic epithelium","Non ileal tuft","ICAM1",7,8,265,0,0,"Sample-first; samples equal-weighted",-0.811270438645369
+"Colonic epithelium","Non ileal tuft","CXCL8",7,8,265,0.0319940476190476,0.0263122294372294,"Sample-first; samples equal-weighted",-0.50874725730925
+"Colonic epithelium","Non ileal tuft","OSM",7,8,265,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Colonic epithelium","Non ileal undiff enterocyte","IL1B",18,32,8585,0.111836204224457,0.0580920998377964,"Sample-first; samples equal-weighted",-0.339795295074762
+"Colonic epithelium","Non ileal undiff enterocyte","IL6",18,32,8585,0.00197509952771257,0.00197509952771257,"Sample-first; samples equal-weighted",-0.59275937249602
+"Colonic epithelium","Non ileal undiff enterocyte","CXCL10",18,32,8585,0.0108660910308702,0.00728527115027007,"Sample-first; samples equal-weighted",-0.626312759575707
+"Colonic epithelium","Non ileal undiff enterocyte","CCL2",18,32,8585,0.0262500426069344,0.0261445928201734,"Sample-first; samples equal-weighted",-0.636691357442949
+"Colonic epithelium","Non ileal undiff enterocyte","NFKB1",18,32,8585,0.471949104606373,0.299927937323069,"Sample-first; samples equal-weighted",0.00378319356000063
+"Colonic epithelium","Non ileal undiff enterocyte","PLAUR",18,32,8585,0.852798213601156,0.264870396612519,"Sample-first; samples equal-weighted",-0.064139245616087
+"Colonic epithelium","Non ileal undiff enterocyte","ICAM1",18,32,8585,0.0379229136678329,0.0349976115261082,"Sample-first; samples equal-weighted",-0.782947649281034
+"Colonic epithelium","Non ileal undiff enterocyte","CXCL8",18,32,8585,1.16716085770581,0.150692343689801,"Sample-first; samples equal-weighted",-0.216555883315995
+"Colonic epithelium","Non ileal undiff enterocyte","OSM",18,32,8585,0.000706588301815028,0.000706588301815028,"Sample-first; samples equal-weighted",-0.364151066001364
+"Fibroblast/pericyte","NOTCH3hi MYH11pos pericyte","IL1B",12,19,1189,0.00514391736316786,0.00514391736316786,"Sample-first; samples equal-weighted",-0.358863027339887
+"Fibroblast/pericyte","NOTCH3hi MYH11pos pericyte","IL6",12,19,1189,0.0588264108106706,0.0299995114343617,"Sample-first; samples equal-weighted",-0.407495744973047
+"Fibroblast/pericyte","NOTCH3hi MYH11pos pericyte","CXCL10",12,19,1189,0.0339237952763045,0.00448909742055397,"Sample-first; samples equal-weighted",-0.594602506036476
+"Fibroblast/pericyte","NOTCH3hi MYH11pos pericyte","CCL2",12,19,1189,1.00773431544308,0.269337933397927,"Sample-first; samples equal-weighted",-0.387078039175423
+"Fibroblast/pericyte","NOTCH3hi MYH11pos pericyte","NFKB1",12,19,1189,0.13151010907135,0.11546454669255,"Sample-first; samples equal-weighted",-1.23046132001549
+"Fibroblast/pericyte","NOTCH3hi MYH11pos pericyte","PLAUR",12,19,1189,0.0456851024050228,0.037401538886297,"Sample-first; samples equal-weighted",-0.642567165434135
+"Fibroblast/pericyte","NOTCH3hi MYH11pos pericyte","ICAM1",12,19,1189,0.180064968754549,0.10870156587539,"Sample-first; samples equal-weighted",-0.676788625707654
+"Fibroblast/pericyte","NOTCH3hi MYH11pos pericyte","CXCL8",12,19,1189,0.0439607227213679,0.0112698253700421,"Sample-first; samples equal-weighted",-0.505667041072122
+"Fibroblast/pericyte","NOTCH3hi MYH11pos pericyte","OSM",12,19,1189,0.00151943612037311,0.00151943612037311,"Sample-first; samples equal-weighted",-0.359160931565697
+"Fibroblast/pericyte","NOTCH3hi TNChi LOXL2pos pericyte","IL1B",9,15,785,0.0604125197162134,0.0288569767808255,"Sample-first; samples equal-weighted",-0.348985584992948
+"Fibroblast/pericyte","NOTCH3hi TNChi LOXL2pos pericyte","IL6",9,15,785,0.349080242691574,0.133561130769897,"Sample-first; samples equal-weighted",0.538365952553332
+"Fibroblast/pericyte","NOTCH3hi TNChi LOXL2pos pericyte","CXCL10",9,15,785,2.35468684021121,0.11970903492979,"Sample-first; samples equal-weighted",2.5970415438665
+"Fibroblast/pericyte","NOTCH3hi TNChi LOXL2pos pericyte","CCL2",9,15,785,4.03231243123187,0.413926887342129,"Sample-first; samples equal-weighted",0.382139563934783
+"Fibroblast/pericyte","NOTCH3hi TNChi LOXL2pos pericyte","NFKB1",9,15,785,0.686792808725438,0.427170589753099,"Sample-first; samples equal-weighted",0.782688273656544
+"Fibroblast/pericyte","NOTCH3hi TNChi LOXL2pos pericyte","PLAUR",9,15,785,0.34477196246549,0.207751312037068,"Sample-first; samples equal-weighted",-0.428222747148942
+"Fibroblast/pericyte","NOTCH3hi TNChi LOXL2pos pericyte","ICAM1",9,15,785,1.84658607615795,0.521371370526919,"Sample-first; samples equal-weighted",0.567855356809994
+"Fibroblast/pericyte","NOTCH3hi TNChi LOXL2pos pericyte","CXCL8",9,15,785,1.76640996677427,0.174567848211028,"Sample-first; samples equal-weighted",-0.0623094598061624
+"Fibroblast/pericyte","NOTCH3hi TNChi LOXL2pos pericyte","OSM",9,15,785,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Fibroblast/pericyte","NOTCH3hi TNCint CCL19pos pericyte","IL1B",7,9,321,0.00555555555555556,0.00555555555555556,"Sample-first; samples equal-weighted",-0.358789460570691
+"Fibroblast/pericyte","NOTCH3hi TNCint CCL19pos pericyte","IL6",7,9,321,0.327758932794338,0.102571187445302,"Sample-first; samples equal-weighted",0.468885352617065
+"Fibroblast/pericyte","NOTCH3hi TNCint CCL19pos pericyte","CXCL10",7,9,321,0.116359447004608,0.014720942140297,"Sample-first; samples equal-weighted",-0.481232354821449
+"Fibroblast/pericyte","NOTCH3hi TNCint CCL19pos pericyte","CCL2",7,9,321,3.88087784560051,0.485758184959109,"Sample-first; samples equal-weighted",0.343626374812879
+"Fibroblast/pericyte","NOTCH3hi TNCint CCL19pos pericyte","NFKB1",7,9,321,0.271539025527027,0.192635978483736,"Sample-first; samples equal-weighted",-0.722793502450334
+"Fibroblast/pericyte","NOTCH3hi TNCint CCL19pos pericyte","PLAUR",7,9,321,0.0641105255877089,0.0614004984874379,"Sample-first; samples equal-weighted",-0.629362350575492
+"Fibroblast/pericyte","NOTCH3hi TNCint CCL19pos pericyte","ICAM1",7,9,321,0.676297548959331,0.285513421326757,"Sample-first; samples equal-weighted",-0.306176521164065
+"Fibroblast/pericyte","NOTCH3hi TNCint CCL19pos pericyte","CXCL8",7,9,321,0.035038826349802,0.0306193975401292,"Sample-first; samples equal-weighted",-0.507963532773843
+"Fibroblast/pericyte","NOTCH3hi TNCint CCL19pos pericyte","OSM",7,9,321,0,0,"Sample-first; samples equal-weighted",-0.368488865200951
+"Fibroblast/pericyte","NOTCH3hi TNClo pericyte","IL1B",16,29,2429,0.00765452786093276,0.00555970170507092,"Sample-first; samples equal-weighted",-0.358414338402742
+"Fibroblast/pericyte","NOTCH3hi TNClo pericyte","IL6",16,29,2429,0.126629511538639,0.0610243524706622,"Sample-first; samples equal-weighted",-0.18654308592797
+"Fibroblast/pericyte","NOTCH3hi TNClo pericyte","CXCL10",16,29,2429,0.125417143350232,0.0209412433953947,"Sample-first; samples equal-weighted",-0.468775700657453
+"Fibroblast/pericyte","NOTCH3hi TNClo pericyte","CCL2",16,29,2429,1.25439512344447,0.282452786229774,"Sample-first; samples equal-weighted",-0.324346700043659
+"Fibroblast/pericyte","NOTCH3hi TNClo pericyte","NFKB1",16,29,2429,0.208658032836173,0.167380324584001,"Sample-first; samples equal-weighted",-0.950765389498401
+"Fibroblast/pericyte","NOTCH3hi TNClo pericyte","PLAUR",16,29,2429,0.0763213699659248,0.0683349897371619,"Sample-first; samples equal-weighted",-0.620611292991449
+"Fibroblast/pericyte","NOTCH3hi TNClo pericyte","ICAM1",16,29,2429,0.451314887459342,0.21892359697549,"Sample-first; samples equal-weighted",-0.47420518552528
+"Fibroblast/pericyte","NOTCH3hi TNClo pericyte","CXCL8",16,29,2429,0.0908768707959479,0.0267597470069753,"Sample-first; samples equal-weighted",-0.493590847823189
+"Fibroblast/pericyte","NOTCH3hi TNClo pericyte","OSM",16,29,2429,0.000545913296123557,0.000545913296123557,"Sample-first; samples equal-weighted",-0.365137462053056
+"Myeloid","S100A8 A9hi mono","IL1B",15,22,1224,22.0519649690392,0.935835273577442,"Sample-first; samples equal-weighted",3.58128010275361
+"Myeloid","S100A8 A9hi mono","IL6",15,22,1224,0.0469109851896475,0.0234353835527335,"Sample-first; samples equal-weighted",-0.446325015999776
+"Myeloid","S100A8 A9hi mono","CXCL10",15,22,1224,1.32828645265743,0.165876572993535,"Sample-first; samples equal-weighted",1.1854779217622
+"Myeloid","S100A8 A9hi mono","CCL2",15,22,1224,0.323911505900617,0.107295876436598,"Sample-first; samples equal-weighted",-0.560989415364548
+"Myeloid","S100A8 A9hi mono","NFKB1",15,22,1224,0.989057575491879,0.528019768068102,"Sample-first; samples equal-weighted",1.87853403434079
+"Myeloid","S100A8 A9hi mono","PLAUR",15,22,1224,4.10496781814522,0.842352832501944,"Sample-first; samples equal-weighted",2.26656963912012
+"Myeloid","S100A8 A9hi mono","ICAM1",15,22,1224,1.53818492649411,0.607955282529313,"Sample-first; samples equal-weighted",0.337525459741544
+"Myeloid","S100A8 A9hi mono","CXCL8",15,22,1224,5.84065540425946,0.524739626304434,"Sample-first; samples equal-weighted",0.986399295406265
+"Myeloid","S100A8 A9hi mono","OSM",15,22,1224,0.425061283884581,0.225695947406446,"Sample-first; samples equal-weighted",2.24099460950928
+"Fibroblast/pericyte","SOX6pos POSTNpos fibroblast","IL1B",14,23,1973,0.00704742678563867,0.00459693042209882,"Sample-first; samples equal-weighted",-0.358522837724503
+"Fibroblast/pericyte","SOX6pos POSTNpos fibroblast","IL6",14,23,1973,0.109571534669543,0.0348185314714734,"Sample-first; samples equal-weighted",-0.242130593087529
+"Fibroblast/pericyte","SOX6pos POSTNpos fibroblast","CXCL10",14,23,1973,0.172991605118205,0.0360238443298217,"Sample-first; samples equal-weighted",-0.403348621335209
+"Fibroblast/pericyte","SOX6pos POSTNpos fibroblast","CCL2",14,23,1973,3.32060507522429,0.462770640073025,"Sample-first; samples equal-weighted",0.201136526305756
+"Fibroblast/pericyte","SOX6pos POSTNpos fibroblast","NFKB1",14,23,1973,0.266702131224911,0.208525095249394,"Sample-first; samples equal-weighted",-0.740329420290032
+"Fibroblast/pericyte","SOX6pos POSTNpos fibroblast","PLAUR",14,23,1973,0.236916299574913,0.177730674916717,"Sample-first; samples equal-weighted",-0.505518885522827
+"Fibroblast/pericyte","SOX6pos POSTNpos fibroblast","ICAM1",14,23,1973,1.725441415813,0.428608338822945,"Sample-first; samples equal-weighted",0.477378271435767
+"Fibroblast/pericyte","SOX6pos POSTNpos fibroblast","CXCL8",14,23,1973,0.826011755706501,0.107195538909731,"Sample-first; samples equal-weighted",-0.304367492996623
+"Fibroblast/pericyte","SOX6pos POSTNpos fibroblast","OSM",14,23,1973,0.00160392364793213,0.00160392364793213,"Sample-first; samples equal-weighted",-0.358642256223239
+"Fibroblast/pericyte","SOX6pos POSTNpos NRG1hi NPYpos fibroblast","IL1B",10,15,800,0.0114122376854644,0.011013036088658,"Sample-first; samples equal-weighted",-0.357742771535332
+"Fibroblast/pericyte","SOX6pos POSTNpos NRG1hi NPYpos fibroblast","IL6",10,15,800,0.0560932857049901,0.0135577604890525,"Sample-first; samples equal-weighted",-0.416402288377689
+"Fibroblast/pericyte","SOX6pos POSTNpos NRG1hi NPYpos fibroblast","CXCL10",10,15,800,0.135853609870676,0.0456153602396305,"Sample-first; samples equal-weighted",-0.454422884093657
+"Fibroblast/pericyte","SOX6pos POSTNpos NRG1hi NPYpos fibroblast","CCL2",10,15,800,2.75658673759422,0.35962922526839,"Sample-first; samples equal-weighted",0.0576940965939143
+"Fibroblast/pericyte","SOX6pos POSTNpos NRG1hi NPYpos fibroblast","NFKB1",10,15,800,0.356476820079608,0.238748916588185,"Sample-first; samples equal-weighted",-0.414855785864808
+"Fibroblast/pericyte","SOX6pos POSTNpos NRG1hi NPYpos fibroblast","PLAUR",10,15,800,0.374743601679196,0.229306569464683,"Sample-first; samples equal-weighted",-0.406743189100097
+"Fibroblast/pericyte","SOX6pos POSTNpos NRG1hi NPYpos fibroblast","ICAM1",10,15,800,0.801691785075667,0.284750112346005,"Sample-first; samples equal-weighted",-0.212525633256759
+"Fibroblast/pericyte","SOX6pos POSTNpos NRG1hi NPYpos fibroblast","CXCL8",10,15,800,0.517062792115402,0.0751023557471153,"Sample-first; samples equal-weighted",-0.383890803018853
+"Fibroblast/pericyte","SOX6pos POSTNpos NRG1hi NPYpos fibroblast","OSM",10,15,800,0.000399201596806387,0.000399201596806387,"Sample-first; samples equal-weighted",-0.366038136307404
+"Fibroblast/pericyte","THY1pos FAPpos PDPNpos fibroblast","IL1B",8,11,656,0.275412550239657,0.0624483426251939,"Sample-first; samples equal-weighted",-0.310561410766141
+"Fibroblast/pericyte","THY1pos FAPpos PDPNpos fibroblast","IL6",8,11,656,1.11473826335179,0.247653910982425,"Sample-first; samples equal-weighted",3.03344617407307
+"Fibroblast/pericyte","THY1pos FAPpos PDPNpos fibroblast","CXCL10",8,11,656,0.61732984115373,0.0738054961629877,"Sample-first; samples equal-weighted",0.20773034697323
+"Fibroblast/pericyte","THY1pos FAPpos PDPNpos fibroblast","CCL2",8,11,656,14.1589704401097,0.787222013057497,"Sample-first; samples equal-weighted",2.95757431975834
+"Fibroblast/pericyte","THY1pos FAPpos PDPNpos fibroblast","NFKB1",8,11,656,0.654899757529226,0.427092701198904,"Sample-first; samples equal-weighted",0.667061615205608
+"Fibroblast/pericyte","THY1pos FAPpos PDPNpos fibroblast","PLAUR",8,11,656,0.64636299361919,0.389483050644095,"Sample-first; samples equal-weighted",-0.212083682665794
+"Fibroblast/pericyte","THY1pos FAPpos PDPNpos fibroblast","ICAM1",8,11,656,3.50532181788226,0.666688455105388,"Sample-first; samples equal-weighted",1.8066848263874
+"Fibroblast/pericyte","THY1pos FAPpos PDPNpos fibroblast","CXCL8",8,11,656,6.52989009203996,0.422923143990563,"Sample-first; samples equal-weighted",1.16380796225321
+"Fibroblast/pericyte","THY1pos FAPpos PDPNpos fibroblast","OSM",8,11,656,0.00171526586620926,0.00171526586620926,"Sample-first; samples equal-weighted",-0.357958717896773

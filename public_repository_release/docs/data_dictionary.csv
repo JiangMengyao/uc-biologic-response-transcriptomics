@@ -1,0 +1,70 @@
+dataset,file,variable,type,unit_or_levels,definition,analysis_role
+manifest,config/data_manifest.csv,dataset,character,GSE accession,Public dataset identifier,provenance
+manifest,config/data_manifest.csv,file,character,filename,Expected local raw filename,download
+manifest,config/data_manifest.csv,source_url,character,URL,Authoritative public download URL,download
+manifest,config/data_manifest.csv,expected_md5,character,32 hex characters,Locked MD5 checksum,input integrity
+manifest,config/data_manifest.csv,role,character,text,Dataset or file role in the evidence chain,provenance
+manifest,config/data_manifest.csv,required,character,yes or supportive,Whether the file is required for the complete rebuild,input gate
+registry,data/derived/extended/sample_registry.csv,accession,character,GSE accession,Parent public cohort,stratification
+registry,data/derived/extended/sample_registry.csv,gsm,character,GSM accession,Unique GEO sample identifier,traceability
+registry,data/derived/extended/sample_registry.csv,subject,character,study-specific ID,Participant identifier within accession,inferential unit
+registry,data/derived/extended/sample_registry.csv,disease,character,UC or other,Published disease annotation,eligibility
+registry,data/derived/extended/sample_registry.csv,treatment,character,drug or placebo,Treatment received or assigned,stratification
+registry,data/derived/extended/sample_registry.csv,visit,character,published visit,Sampling time point,longitudinal pairing
+registry,data/derived/extended/sample_registry.csv,response,character,Yes or No,Published primary response or remission status,outcome
+registry,data/derived/extended/sample_registry.csv,endpoint,character,text,Cohort-specific clinical endpoint,estimand definition
+registry,data/derived/extended/sample_registry.csv,eligible,logical,TRUE or FALSE,Meets project-specific analysis eligibility,inclusion gate
+registry,data/derived/extended/sample_registry.csv,randomized_arm,logical,TRUE or FALSE,Sample belongs to a randomized comparison,RCT audit
+baseline,results/source_data/common_state_baseline_patient_data.csv,response_binary,integer,0 or 1,One indicates clinical response or remission,outcome
+baseline,results/source_data/common_state_baseline_patient_data.csv,Inflammation_z,numeric,within-accession SD,Locked inflammatory-response score standardized in baseline UC,primary exposure
+baseline,results/source_data/common_state_baseline_patient_data.csv,TNFaNFKB_z,numeric,within-accession SD,Hallmark TNF alpha via NF-kB score,supportive exposure
+baseline,results/source_data/common_state_baseline_patient_data.csv,IL6JAKSTAT3_z,numeric,within-accession SD,Hallmark IL6 JAK STAT3 score,supportive exposure
+baseline,results/source_data/common_state_baseline_patient_data.csv,OxidativePhos_neg_z,numeric,within-accession SD,Direction-locked oxidative phosphorylation control,specificity control
+baseline,results/source_data/common_state_baseline_patient_data.csv,Random_neg_z,numeric,within-accession SD,Direction-locked frozen random gene set,specificity control
+baseline,results/source_data/common_state_baseline_patient_data.csv,mechanism,character,anti-TNF or UST or VDZ,Biologic mechanism class,subgroup
+baseline,results/source_data/common_state_baseline_patient_data.csv,arm,character,Active or Placebo,Randomized or observed treatment arm,RCT separation
+baseline_effect,results/tables/common_state/table_primary_cross_mechanism_associations.csv,odds_ratio,numeric,response OR,Response odds ratio per 1-SD higher baseline score,primary estimand
+baseline_effect,results/tables/common_state/table_primary_cross_mechanism_associations.csv,ci_lower,numeric,OR scale,Lower 95 percent confidence limit,uncertainty
+baseline_effect,results/tables/common_state/table_primary_cross_mechanism_associations.csv,ci_upper,numeric,OR scale,Upper 95 percent confidence limit,uncertainty
+baseline_effect,results/tables/common_state/table_primary_cross_mechanism_associations.csv,p_value,numeric,0 to 1,Model p value without cross-family optimization,inference
+longitudinal,results/source_data/longitudinal_paired_patient_data.csv,delta_Inflammation_z,numeric,within-accession SD,Follow-up minus baseline inflammatory score,primary longitudinal exposure
+longitudinal,results/source_data/longitudinal_paired_patient_data.csv,baseline_tertile,character,Low or Middle or High,Cohort-specific baseline tertile,descriptive transition
+longitudinal,results/source_data/longitudinal_paired_patient_data.csv,baseline_high,logical,TRUE or FALSE,Participant is in the highest baseline tertile,descriptive transition
+longitudinal,results/source_data/longitudinal_paired_patient_data.csv,molecular_reversal,logical,TRUE or FALSE,Follow-up score is below the cohort baseline median,descriptive transition
+longitudinal_effect,results/tables/common_state/table_longitudinal_primary_change_effects.csv,estimate,numeric,score SD,Responder change minus nonresponder change,primary longitudinal estimand
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,group_id,character,unique ID,Compartment plus sample-state pseudobulk identifier,traceability
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,sample_id,character,published sample ID,First biological aggregation unit,aggregation unit
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,compartment,character,three compartments,Colonic epithelium or Myeloid or Fibroblast-pericyte,cellular localization
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,donor,character,GSE282122 patient ID,Human donor identifier,inferential unit
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,state,character,final_analysis label,Published cell-state annotation,cellular localization
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,treatment_time,character,Pre or Post,Biopsy relative to treatment,longitudinal pairing
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,inflammation,character,Inflamed or Non_Inflamed,Published biopsy inflammatory status,stratification
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,site,character,anatomical site,Published biopsy site,exact pairing key
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,match,character,Yes or No,Publisher longitudinal matching flag,longitudinal gate
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,n_cells,integer,cells,Cells retained in one sample-state pseudobulk,precision audit
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,n_samples,integer,always 1,Confirms sample-first aggregation,aggregation audit
+singlecell_sample_state,results/source_data/singlecell_sample_state_pseudobulk.csv,module_score,numeric,cross-compartment baseline-scaled units,Mean z expression of common variable frozen genes,localization exposure
+singlecell_sample_compartment,results/source_data/singlecell_sample_compartment_pseudobulk.csv,module_score,numeric,cross-compartment baseline-scaled units,One score per biological sample and compartment,clinical audit exposure
+singlecell_donor_state,results/source_data/singlecell_compartment_pseudobulk.csv,group_id,character,unique ID,Baseline inflamed donor-state identifier after equal sample averaging,traceability
+singlecell_donor_state,results/source_data/singlecell_compartment_pseudobulk.csv,n_samples,integer,samples,Equal-weight samples contributing to donor-state localization,precision audit
+singlecell_localization,results/tables/common_state/table_singlecell_compartment_localization.csv,donors,integer,donors,Independent baseline donors represented,precision audit
+singlecell_localization,results/tables/common_state/table_singlecell_compartment_localization.csv,mean_module_score,numeric,cross-compartment scaled units,Mean score across donor-state pseudobulks,localization estimand
+singlecell_localization,results/tables/common_state/table_singlecell_compartment_localization.csv,ci_lower,numeric,score units,Lower donor-based 95 percent confidence limit,uncertainty
+singlecell_localization,results/tables/common_state/table_singlecell_compartment_localization.csv,ci_upper,numeric,score units,Upper donor-based 95 percent confidence limit,uncertainty
+singlecell_outcome,results/tables/common_state/table_singlecell_compartment_outcome_effects.csv,odds_ratio,numeric,remission OR,Firth remission OR per 1-SD sample-first donor score in baseline inflamed biopsies,exploratory outcome audit
+singlecell_sensitivity,results/tables/common_state/table_singlecell_compartment_outcome_sensitivity.csv,analysis_label,character,prespecified method,Sample-first anatomical strata or Legacy state-cell-weighted,aggregation audit
+singlecell_sensitivity,results/tables/common_state/table_singlecell_compartment_outcome_sensitivity.csv,direction_vs_bulk,character,Concordant or Discordant,Direction relative to bulk low-response association,interpretation audit
+singlecell_pair,results/source_data/singlecell_longitudinal_site_pairs.csv,delta,numeric,score units,Post minus Pre within a Match=Yes exact donor-site pair,longitudinal exposure
+singlecell_pair,results/source_data/singlecell_longitudinal_site_pairs.csv,pairing_rule,character,Match=Yes exact donor-site,Locked pairing definition,longitudinal gate
+singlecell_change,results/tables/common_state/table_singlecell_compartment_longitudinal_effects.csv,estimate,numeric,score units,Remission minus nonremission change after exact donor-site then donor-equal aggregation,exploratory longitudinal audit
+all_effect_tables,results/tables/common_state/*.csv,fdr,numeric,0 to 1,Benjamini-Hochberg adjusted p value within the stated analysis family,multiplicity
+figure_source,results/source_data/Figure1-5_source_data.csv,panel,character,panel key,Panel to which the source-data row belongs,figure traceability
+covariate_baseline,results/source_data/covariate_augmented_baseline_patient_data.csv,baseline_activity,numeric,cohort-specific Mayo scale,Participant-linked baseline total Mayo or endoscopic Mayo subscore,confounding adjustment
+covariate_baseline,results/source_data/covariate_augmented_baseline_patient_data.csv,disease_duration_years,numeric,years,GSE206285 released disease duration,confounding adjustment
+covariate_baseline,results/source_data/covariate_augmented_baseline_patient_data.csv,prior_anti_tnf_exposure,numeric,0 or 1,Prior anti-TNF exposure and not documented treatment failure,confounding adjustment proxy
+covariate_availability,results/tables/common_state/table_covariate_availability_matrix.csv,availability,character,availability class,Participant or study-level public availability,missingness audit
+adjusted_effect,results/tables/common_state/table_adjusted_baseline_associations.csv,adjusted_or,numeric,response OR,Inflammatory-score OR after released participant-level covariate adjustment,sensitivity estimand
+mechanism_moderator,results/tables/common_state/table_mechanism_moderator_test.csv,moderator_p,numeric,0 to 1,Hartung-Knapp omnibus P value for between-mechanism differences,heterogeneity audit
+stratified_meta,results/tables/common_state/table_stratified_sensitivity_meta.csv,stratum,character,prespecified subgroup,Endpoint time mechanism or study-level biopsy-site group,heterogeneity audit
+exclusion_audit,results/tables/common_state/table_sample_exclusion_audit.csv,reason,character,mutually exclusive reason,Hierarchical sample disposition from accession to participant,cohort flow
+confounding_gate,results/tables/common_state/table_confounding_heterogeneity_gate.csv,passed,logical,TRUE or FALSE,Prespecified adjustment heterogeneity and influence stop decision,scientific gate

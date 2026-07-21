@@ -1,0 +1,12 @@
+dataset,file,source_url,expected_md5,role,required
+GSE92415,GSE92415_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE92nnn/GSE92415/matrix/GSE92415_series_matrix.txt.gz,e54bf82d98d25155f8ba80d8b821b31c,golimumab RCT bulk,yes
+GSE16879,GSE16879_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE16nnn/GSE16879/matrix/GSE16879_series_matrix.txt.gz,a290b981f5c6c3b808b38dd7a842094f,infliximab longitudinal bulk,yes
+GSE23597,GSE23597_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE23nnn/GSE23597/matrix/GSE23597_series_matrix.txt.gz,0aa482f63b5573790fdd8a291c8ffd8a,infliximab RCT bulk,yes
+GSE73661,GSE73661_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE73nnn/GSE73661/matrix/GSE73661_series_matrix.txt.gz,fe547c7d318250f24ee464e71f97af63,IFX and VDZ longitudinal bulk,yes
+GSE206285,GSE206285_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE206nnn/GSE206285/matrix/GSE206285_series_matrix.txt.gz,37d2b417b4a3d999fc05c43eaa731901,ustekinumab RCT bulk,yes
+GSE206285_metadata,GSE206285_additional_sample_metadata.tsv.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE206nnn/GSE206285/suppl/GSE206285_additional_sample_metadata.tsv.gz,24142b88cdd693eb3e3002b5849d5cd1,ustekinumab individual clinical covariates,yes
+GSE282122,paired_sample_list.csv,https://zenodo.org/records/14007626/files/paired_sample_list.csv?download=1,3300a53889bb4b70c48ec66dbb66beea,single-cell paired-sample metadata,yes
+GSE282122,UMAP_combined_objects.txt.gz,https://zenodo.org/records/14007626/files/UMAP_combined_objects.txt.gz?download=1,6b45dba506fc2279da1861e21b561a0f,single-cell pooled UMAP coordinates,supportive
+GSE282122,myeloid_final.h5ad,https://zenodo.org/records/14007626/files/myeloid_final.h5ad?download=1,bdfe50345a11abdb1a72b2439bf9950e,myeloid annotated h5ad,yes
+GSE282122,epicolonic_final.h5ad,https://zenodo.org/records/14007626/files/epicolonic_final.h5ad?download=1,99072da25c47bc797ceba8d8bd5d8c5a,colonic epithelial annotated h5ad,yes
+GSE282122,fibperi_final.h5ad,https://zenodo.org/records/14007626/files/fibperi_final.h5ad?download=1,62bfe745f6c7892d7c1069e220136bfc,fibroblast and pericyte annotated h5ad,yes

@@ -1,0 +1,302 @@
+"group_id","compartment","donor","sample_id","treatment_time","remission","inflammation","site","match","n_cells","n_samples","mean_inflammation_score","module_score"
+"colonic_epithelium|||sample|||CID003352-2","Colonic epithelium","UC1","CID003352-2","Post","Non_Remission","Inflamed","Rectum","Yes",448,1,7.98423196,0.307492133223738
+"colonic_epithelium|||sample|||CID003353-1","Colonic epithelium","UC1","CID003353-1","Post","Non_Remission","Non_Inflamed","Descending_Colon","Yes",2509,1,0.48461624,-0.127375680632007
+"colonic_epithelium|||sample|||CID003354-1","Colonic epithelium","UC1","CID003354-1","Post","Non_Remission","Non_Inflamed","Ascending_Colon","Yes",3080,1,1.75548643,-0.340020563791304
+"colonic_epithelium|||sample|||CID003356-1","Colonic epithelium","UC1","CID003356-1","Pre","Non_Remission","Inflamed","Rectum","Yes",619,1,7.39283311,-0.0616832047368095
+"colonic_epithelium|||sample|||CID003359-1","Colonic epithelium","UC1","CID003359-1","Pre","Non_Remission","Non_Inflamed","Ascending_Colon","Yes",1963,1,2.92984282,-0.286647321805307
+"colonic_epithelium|||sample|||CID003360-1","Colonic epithelium","UC2","CID003360-1","Post","Non_Remission","Inflamed","Rectum","Yes",719,1,6.99213596,-0.00564280289401837
+"colonic_epithelium|||sample|||CID003361-1","Colonic epithelium","UC2","CID003361-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",1068,1,5.96128762,0.106342718610514
+"colonic_epithelium|||sample|||CID003362-1","Colonic epithelium","UC2","CID003362-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",2410,1,2.94156876,-0.261697580952368
+"colonic_epithelium|||sample|||CID003363-1","Colonic epithelium","UC2","CID003363-1","Pre","Non_Remission","Inflamed","Rectum","Yes",1347,1,6.08680387,0.263206251346808
+"colonic_epithelium|||sample|||CID003364-1","Colonic epithelium","UC2","CID003364-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",747,1,6.65477771,-0.220927270476477
+"colonic_epithelium|||sample|||CID003365-1","Colonic epithelium","UC2","CID003365-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",2786,1,2.21513802,-0.270423481662323
+"colonic_epithelium|||sample|||CID003366-1","Colonic epithelium","UC3","CID003366-1","Post","Non_Remission","Inflamed","Rectum","Yes",176,1,8.75205377,-0.287793641780389
+"colonic_epithelium|||sample|||CID003367-2","Colonic epithelium","UC3","CID003367-2","Post","Non_Remission","Inflamed","Descending_Colon","Yes",411,1,8.03358015,-0.118048395699245
+"colonic_epithelium|||sample|||CID003368-1","Colonic epithelium","UC3","CID003368-1","Post","Non_Remission","Inflamed","Ascending_Colon","Yes",823,1,6.63743862,0.0912122933723028
+"colonic_epithelium|||sample|||CID003370-1","Colonic epithelium","UC3","CID003370-1","Pre","Non_Remission","Non_Inflamed","Rectum","Yes",620,1,5.88044616,0.210108542347022
+"colonic_epithelium|||sample|||CID003371-2","Colonic epithelium","UC3","CID003371-2","Pre","Non_Remission","Non_Inflamed","Descending_Colon","Yes",339,1,6.23295086,-0.0841597862367359
+"colonic_epithelium|||sample|||CID003372-1","Colonic epithelium","UC3","CID003372-1","Pre","Non_Remission","Inflamed","Ascending_Colon","Yes",429,1,7.38663399,-0.14266743810659
+"colonic_epithelium|||sample|||CID003666-1","Colonic epithelium","UC4","CID003666-1","Pre","Non_Remission","Inflamed","Ascending_Colon","No",5730,1,0,-0.415113500126845
+"colonic_epithelium|||sample|||CID003667-1","Colonic epithelium","UC4","CID003667-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",168,1,8.98094546,0.422274431434299
+"colonic_epithelium|||sample|||CID003669-1","Colonic epithelium","UC4","CID003669-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",184,1,8.91659501,0.17135264096732
+"colonic_epithelium|||sample|||CID003670-1","Colonic epithelium","UC4","CID003670-1","Post","Non_Remission","Inflamed","Sigmoid","No",109,1,8.27533425,1.03834764015681
+"colonic_epithelium|||sample|||CID004696-1","Colonic epithelium","UC5","CID004696-1","Pre","Remission","Inflamed","Descending_Colon","Yes",953,1,7.53654144,0.346445393320343
+"colonic_epithelium|||sample|||CID004697-1","Colonic epithelium","UC5","CID004697-1","Pre","Remission","Inflamed","Sigmoid","Yes",647,1,8.04981875,0.282001229289288
+"colonic_epithelium|||sample|||CID004698-1","Colonic epithelium","UC5","CID004698-1","Pre","Remission","Inflamed","Rectum","Yes",829,1,7.81427266,0.0176202806759794
+"colonic_epithelium|||sample|||CID004699-1","Colonic epithelium","UC5","CID004699-1","Post","Remission","Non_Inflamed","Ascending_Colon","No",1044,1,4.64795058,-0.000694601864151731
+"colonic_epithelium|||sample|||CID004700-1","Colonic epithelium","UC5","CID004700-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",2122,1,3.37876611,-0.237896617367897
+"colonic_epithelium|||sample|||CID004701-1","Colonic epithelium","UC5","CID004701-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",481,1,6.15469493,-0.247209160213826
+"colonic_epithelium|||sample|||CID004702-1","Colonic epithelium","UC5","CID004702-1","Post","Remission","Non_Inflamed","Rectum","Yes",5056,1,2.15064041,-0.293265168734259
+"colonic_epithelium|||sample|||CID004703-1","Colonic epithelium","UC6","CID004703-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",1143,1,7.71323517,-0.0590435173271871
+"colonic_epithelium|||sample|||CID004704-1","Colonic epithelium","UC6","CID004704-1","Pre","Non_Remission","Inflamed","Rectum","Yes",1514,1,6.35836306,-0.196163808308709
+"colonic_epithelium|||sample|||CID004705-1","Colonic epithelium","UC6","CID004705-1","Post","Non_Remission","Inflamed","Descending_Colon","No",569,1,7.04820953,0.149983284053773
+"colonic_epithelium|||sample|||CID004706-1","Colonic epithelium","UC6","CID004706-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",1753,1,6.26718746,-0.141531524120419
+"colonic_epithelium|||sample|||CID004707-1","Colonic epithelium","UC6","CID004707-1","Post","Non_Remission","Inflamed","Rectum","Yes",967,1,6.65319648,0.398482725806577
+"colonic_epithelium|||sample|||CID004739-1","Colonic epithelium","UC22","CID004739-1","Pre","Non_Remission","Inflamed","Ascending_Colon","No",673,1,6.83674024,-0.0707260943382243
+"colonic_epithelium|||sample|||CID004740-1","Colonic epithelium","UC22","CID004740-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",2154,1,5.27111852,-0.246632934073952
+"colonic_epithelium|||sample|||CID004741-1","Colonic epithelium","UC22","CID004741-1","Pre","Non_Remission","Non_Inflamed","Rectum","Yes",2974,1,4.12438026,-0.2889086019441
+"colonic_epithelium|||sample|||CID004742-1","Colonic epithelium","UC22","CID004742-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",714,1,6.53476778,0.011601464109557
+"colonic_epithelium|||sample|||CID004743-1","Colonic epithelium","UC22","CID004743-1","Post","Non_Remission","Inflamed","Sigmoid","No",2165,1,3.60534561,-0.279496682749335
+"colonic_epithelium|||sample|||CID004744-1","Colonic epithelium","UC22","CID004744-1","Post","Non_Remission","Inflamed","Rectum","Yes",1488,1,5.84600575,-0.0867521457305526
+"colonic_epithelium|||sample|||CID004745-1","Colonic epithelium","UC7","CID004745-1","Pre","Non_Remission","Non_Inflamed","Descending_Colon","Yes",1509,1,4.33923017,-0.0532971922144304
+"colonic_epithelium|||sample|||CID004746-1","Colonic epithelium","UC7","CID004746-1","Pre","Non_Remission","Non_Inflamed","Sigmoid","Yes",3382,1,3.21673859,-0.294769669062023
+"colonic_epithelium|||sample|||CID004747-1","Colonic epithelium","UC7","CID004747-1","Pre","Non_Remission","Inflamed","Rectum","Yes",630,1,8.09057696,-0.0482908993466352
+"colonic_epithelium|||sample|||CID004748-1","Colonic epithelium","UC7","CID004748-1","Post","Non_Remission","Non_Inflamed","Descending_Colon","Yes",2756,1,3.58075402,-0.254422078260068
+"colonic_epithelium|||sample|||CID004749-1","Colonic epithelium","UC7","CID004749-1","Post","Non_Remission","Non_Inflamed","Sigmoid","Yes",7948,1,1.00493405,-0.415671160488325
+"colonic_epithelium|||sample|||CID004750-1","Colonic epithelium","UC7","CID004750-1","Post","Non_Remission","Inflamed","Rectum","Yes",2990,1,4.81520882,-0.217765589240127
+"colonic_epithelium|||sample|||CID005704-1","Colonic epithelium","UC8","CID005704-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",402,1,7.74821914,-0.172827451904698
+"colonic_epithelium|||sample|||CID005705-1","Colonic epithelium","UC8","CID005705-1","Pre","Non_Remission","Inflamed","Rectum","Yes",228,1,7.58178734,-0.0700817455969965
+"colonic_epithelium|||sample|||CID005706-1","Colonic epithelium","UC8","CID005706-1","Post","Non_Remission","Inflamed","Descending_Colon","No",1150,1,5.48640948,-0.000668134556015984
+"colonic_epithelium|||sample|||CID005707-1","Colonic epithelium","UC8","CID005707-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",291,1,8.67735052,-0.151270958281266
+"colonic_epithelium|||sample|||CID005708-1","Colonic epithelium","UC8","CID005708-1","Post","Non_Remission","Inflamed","Rectum","Yes",307,1,8.85170499,-0.147012197312296
+"colonic_epithelium|||sample|||CID005713-1","Colonic epithelium","UC9","CID005713-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",862,1,6.99828698,-0.18248430155675
+"colonic_epithelium|||sample|||CID005714-1","Colonic epithelium","UC9","CID005714-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",753,1,6.1243129,-0.259327084760888
+"colonic_epithelium|||sample|||CID005715-1","Colonic epithelium","UC9","CID005715-1","Pre","Non_Remission","Inflamed","Rectum","Yes",158,1,7.86942075,-0.242821019858413
+"colonic_epithelium|||sample|||CID005716-1","Colonic epithelium","UC9","CID005716-1","Post","Non_Remission","Non_Inflamed","Descending_Colon","Yes",1508,1,4.68492519,-0.338138960266576
+"colonic_epithelium|||sample|||CID005717-1","Colonic epithelium","UC9","CID005717-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",1428,1,5.4689872,-0.245002152701735
+"colonic_epithelium|||sample|||CID005718-1","Colonic epithelium","UC9","CID005718-1","Post","Non_Remission","Inflamed","Rectum","Yes",660,1,6.64355453,-0.114667848691724
+"colonic_epithelium|||sample|||CID005719-1","Colonic epithelium","UC10","CID005719-1","Pre","Remission","Inflamed","Descending_Colon","Yes",126,1,7.54121805,-0.278472359211363
+"colonic_epithelium|||sample|||CID005720-1","Colonic epithelium","UC10","CID005720-1","Pre","Remission","Inflamed","Sigmoid","Yes",772,1,7.59441424,-0.187842366875175
+"colonic_epithelium|||sample|||CID005721-1","Colonic epithelium","UC10","CID005721-1","Pre","Remission","Inflamed","Rectum","Yes",300,1,8.20309848,-0.0195061482216472
+"colonic_epithelium|||sample|||CID005722-1","Colonic epithelium","UC10","CID005722-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",2135,1,2.63700988,-0.168820403804329
+"colonic_epithelium|||sample|||CID005723-1","Colonic epithelium","UC10","CID005723-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",1921,1,3.10944641,-0.0675285714889425
+"colonic_epithelium|||sample|||CID005724-1","Colonic epithelium","UC10","CID005724-1","Post","Remission","Non_Inflamed","Rectum","Yes",1356,1,5.59386069,0.138801961217197
+"colonic_epithelium|||sample|||CID005725-1","Colonic epithelium","UC11","CID005725-1","Pre","Remission","Non_Inflamed","Ascending_Colon","No",537,1,6.97217528,-0.256261491440325
+"colonic_epithelium|||sample|||CID005726-1","Colonic epithelium","UC11","CID005726-1","Pre","Remission","Inflamed","Rectum","Yes",1504,1,7.21306103,-0.00970981890615638
+"colonic_epithelium|||sample|||CID005727-1","Colonic epithelium","UC11","CID005727-1","Post","Remission","Non_Inflamed","Descending_Colon","No",2254,1,1.76205789,-0.172368178379514
+"colonic_epithelium|||sample|||CID005728-1","Colonic epithelium","UC11","CID005728-1","Post","Remission","Non_Inflamed","Sigmoid","No",2926,1,0.95075361,-0.28704518211611
+"colonic_epithelium|||sample|||CID005729-1","Colonic epithelium","UC11","CID005729-1","Post","Remission","Non_Inflamed","Rectum","Yes",2591,1,2.27947021,-0.237896650543147
+"colonic_epithelium|||sample|||CID005730-1","Colonic epithelium","UC12","CID005730-1","Pre","Remission","Non_Inflamed","Descending_Colon","Yes",3142,1,0.93753766,-0.203407861839417
+"colonic_epithelium|||sample|||CID005731-1","Colonic epithelium","UC12","CID005731-1","Pre","Remission","Non_Inflamed","Sigmoid","Yes",3997,1,2.44436943,-0.171849285271415
+"colonic_epithelium|||sample|||CID005732-1","Colonic epithelium","UC12","CID005732-1","Pre","Remission","Inflamed","Rectum","Yes",2423,1,3.72337624,-0.0609446054186687
+"colonic_epithelium|||sample|||CID005733-1","Colonic epithelium","UC12","CID005733-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",1633,1,3.42279193,-0.0311979802487946
+"colonic_epithelium|||sample|||CID005734-1","Colonic epithelium","UC12","CID005734-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",4607,1,0.88433591,-0.374703249666123
+"colonic_epithelium|||sample|||CID005735-1","Colonic epithelium","UC12","CID005735-1","Post","Remission","Non_Inflamed","Rectum","Yes",2037,1,2.88521437,0.0762334927941056
+"colonic_epithelium|||sample|||CID005736-1","Colonic epithelium","UC13","CID005736-1","Pre","Remission","Non_Inflamed","Descending_Colon","Yes",1899,1,1.95067375,-0.18657824287882
+"colonic_epithelium|||sample|||CID005737-1","Colonic epithelium","UC13","CID005737-1","Pre","Remission","Inflamed","Sigmoid","Yes",1978,1,2.01656611,-0.0947759721630881
+"colonic_epithelium|||sample|||CID005738-1","Colonic epithelium","UC13","CID005738-1","Pre","Remission","Inflamed","Rectum","Yes",2161,1,4.19486216,-0.0909367772481013
+"colonic_epithelium|||sample|||CID005739-1","Colonic epithelium","UC13","CID005739-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",1507,1,3.34964456,-0.095695686166198
+"colonic_epithelium|||sample|||CID005740-1","Colonic epithelium","UC13","CID005740-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",816,1,4.29749448,0.293398683039506
+"colonic_epithelium|||sample|||CID005741-1","Colonic epithelium","UC13","CID005741-1","Post","Remission","Non_Inflamed","Rectum","Yes",628,1,5.33127671,-0.286519518746829
+"colonic_epithelium|||sample|||CID005742-1","Colonic epithelium","UC14","CID005742-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",4375,1,0.78464918,-0.362492286245571
+"colonic_epithelium|||sample|||CID005743-1","Colonic epithelium","UC14","CID005743-1","Pre","Non_Remission","Inflamed","Rectum","Yes",459,1,7.74033644,0.0556868966023645
+"colonic_epithelium|||sample|||CID005744-1","Colonic epithelium","UC14","CID005744-1","Post","Non_Remission","Inflamed","Descending_Colon","No",1020,1,6.98485524,-0.158846163164832
+"colonic_epithelium|||sample|||CID005745-1","Colonic epithelium","UC14","CID005745-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",444,1,8.69151491,-0.211109210567071
+"colonic_epithelium|||sample|||CID005746-1","Colonic epithelium","UC14","CID005746-1","Post","Non_Remission","Inflamed","Rectum","Yes",1720,1,7.05128954,-0.226383041057724
+"colonic_epithelium|||sample|||CID006562-1","Colonic epithelium","UC15","CID006562-1","Pre","Non_Remission","Inflamed","Descending_Colon","No",349,1,5.96779763,-0.0553568695870485
+"colonic_epithelium|||sample|||CID006563-1","Colonic epithelium","UC15","CID006563-1","Pre","Non_Remission","Non_Inflamed","Rectum","Yes",1002,1,6.47199456,-0.37355112718289
+"colonic_epithelium|||sample|||CID006565-1","Colonic epithelium","UC15","CID006565-1","Post","Non_Remission","Inflamed","Rectum","Yes",96,1,7.65027814,0.360375591264965
+"colonic_epithelium|||sample|||CID006566-1","Colonic epithelium","UC16","CID006566-1","Pre","Non_Remission","Non_Inflamed","Ascending_Colon","Yes",276,1,7.64818173,-0.198835611205152
+"colonic_epithelium|||sample|||CID006567-1","Colonic epithelium","UC16","CID006567-1","Pre","Non_Remission","Non_Inflamed","Descending_Colon","Yes",452,1,7.13157951,-0.31086684736761
+"colonic_epithelium|||sample|||CID006568-1","Colonic epithelium","UC16","CID006568-1","Post","Non_Remission","Inflamed","Ascending_Colon","Yes",203,1,8.16793436,0.0158539798391889
+"colonic_epithelium|||sample|||CID006569-1","Colonic epithelium","UC16","CID006569-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",1258,1,6.21836206,-0.172437083557418
+"colonic_epithelium|||sample|||CID006570-1","Colonic epithelium","UC16","CID006570-1","Post","Non_Remission","Inflamed","Rectum","No",3528,1,3.11871709,-0.297090756595976
+"colonic_epithelium|||sample|||CID006571-1","Colonic epithelium","UC17","CID006571-1","Pre","Remission","Inflamed","Descending_Colon","Yes",256,1,8.01915131,0.105095923470314
+"colonic_epithelium|||sample|||CID006572-1","Colonic epithelium","UC17","CID006572-1","Pre","Remission","Inflamed","Rectum","No",962,1,7.37592399,-0.00241798152454192
+"colonic_epithelium|||sample|||CID006573-1","Colonic epithelium","UC17","CID006573-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",2710,1,3.03428302,-0.291869062039217
+"colonic_epithelium|||sample|||CID006577-1","Colonic epithelium","UC18","CID006577-1","Pre","Non_Remission","Inflamed","Rectum","Yes",23,1,7.37158469,0.73366207552527
+"colonic_epithelium|||sample|||CID006581-1","Colonic epithelium","UC20","CID006581-1","Pre","Non_Remission","Inflamed","Descending_Colon","No",45,1,8.81427301,1.35353725571842
+"colonic_epithelium|||sample|||CID006582-1","Colonic epithelium","UC20","CID006582-1","Pre","Non_Remission","Inflamed","Rectum","No",596,1,7.43754394,-0.0800914129617286
+"myeloid|||sample|||CID003352-2","Myeloid","UC1","CID003352-2","Post","Non_Remission","Inflamed","Rectum","Yes",258,1,7.98423196,0.923317517237007
+"myeloid|||sample|||CID003353-1","Myeloid","UC1","CID003353-1","Post","Non_Remission","Non_Inflamed","Descending_Colon","Yes",36,1,0.48461624,-0.153459448924778
+"myeloid|||sample|||CID003354-1","Myeloid","UC1","CID003354-1","Post","Non_Remission","Non_Inflamed","Ascending_Colon","Yes",34,1,1.75548643,-0.0180638717528591
+"myeloid|||sample|||CID003355-1","Myeloid","UC1","CID003355-1","Post","Non_Remission","Non_Inflamed","Terminal_Ileum","Yes",103,1,5.91255513,-0.0639216227256542
+"myeloid|||sample|||CID003356-1","Myeloid","UC1","CID003356-1","Pre","Non_Remission","Inflamed","Rectum","Yes",84,1,7.39283311,0.648623868803685
+"myeloid|||sample|||CID003357-1","Myeloid","UC1","CID003357-1","Pre","Non_Remission","Non_Inflamed","Terminal_Ileum","Yes",141,1,5.47327062,0.649606267038465
+"myeloid|||sample|||CID003359-1","Myeloid","UC1","CID003359-1","Pre","Non_Remission","Non_Inflamed","Ascending_Colon","Yes",24,1,2.92984282,-0.0163324891788052
+"myeloid|||sample|||CID003360-1","Myeloid","UC2","CID003360-1","Post","Non_Remission","Inflamed","Rectum","Yes",155,1,6.99213596,0.855704060034931
+"myeloid|||sample|||CID003361-1","Myeloid","UC2","CID003361-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",90,1,5.96128762,0.580555222191483
+"myeloid|||sample|||CID003362-1","Myeloid","UC2","CID003362-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",57,1,2.94156876,-0.0864969547499478
+"myeloid|||sample|||CID003363-1","Myeloid","UC2","CID003363-1","Pre","Non_Remission","Inflamed","Rectum","Yes",92,1,6.08680387,0.74523429133219
+"myeloid|||sample|||CID003364-1","Myeloid","UC2","CID003364-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",71,1,6.65477771,0.426221716315729
+"myeloid|||sample|||CID003365-1","Myeloid","UC2","CID003365-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",34,1,2.21513802,-0.011699036347547
+"myeloid|||sample|||CID003366-1","Myeloid","UC3","CID003366-1","Post","Non_Remission","Inflamed","Rectum","Yes",229,1,8.75205377,1.14526197165986
+"myeloid|||sample|||CID003367-2","Myeloid","UC3","CID003367-2","Post","Non_Remission","Inflamed","Descending_Colon","Yes",259,1,8.03358015,0.744951988171304
+"myeloid|||sample|||CID003368-1","Myeloid","UC3","CID003368-1","Post","Non_Remission","Inflamed","Ascending_Colon","Yes",218,1,6.63743862,0.656346094887899
+"myeloid|||sample|||CID003369-1","Myeloid","UC3","CID003369-1","Post","Non_Remission","Non_Inflamed","Terminal_Ileum","Yes",308,1,6.54934835,0.633330673894882
+"myeloid|||sample|||CID003370-1","Myeloid","UC3","CID003370-1","Pre","Non_Remission","Non_Inflamed","Rectum","Yes",109,1,5.88044616,1.42258379214957
+"myeloid|||sample|||CID003371-2","Myeloid","UC3","CID003371-2","Pre","Non_Remission","Non_Inflamed","Descending_Colon","Yes",76,1,6.23295086,0.0446167254707985
+"myeloid|||sample|||CID003372-1","Myeloid","UC3","CID003372-1","Pre","Non_Remission","Inflamed","Ascending_Colon","Yes",175,1,7.38663399,0.678592885682028
+"myeloid|||sample|||CID003373-1","Myeloid","UC3","CID003373-1","Pre","Non_Remission","Non_Inflamed","Terminal_Ileum","Yes",55,1,4.15169843,3.0099526365491
+"myeloid|||sample|||CID003665-1","Myeloid","UC4","CID003665-1","Pre","Non_Remission","Non_Inflamed","Terminal_Ileum","No",26,1,2.48212215,1.25064740764499
+"myeloid|||sample|||CID003666-1","Myeloid","UC4","CID003666-1","Pre","Non_Remission","Inflamed","Ascending_Colon","No",70,1,0,-0.204147618730514
+"myeloid|||sample|||CID003667-1","Myeloid","UC4","CID003667-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",317,1,8.98094546,0.608707177978726
+"myeloid|||sample|||CID003669-1","Myeloid","UC4","CID003669-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",397,1,8.91659501,0.899482505713045
+"myeloid|||sample|||CID003670-1","Myeloid","UC4","CID003670-1","Post","Non_Remission","Inflamed","Sigmoid","No",71,1,8.27533425,0.951755413063151
+"myeloid|||sample|||CID004696-1","Myeloid","UC5","CID004696-1","Pre","Remission","Inflamed","Descending_Colon","Yes",200,1,7.53654144,0.906930610368201
+"myeloid|||sample|||CID004697-1","Myeloid","UC5","CID004697-1","Pre","Remission","Inflamed","Sigmoid","Yes",230,1,8.04981875,0.894867623831428
+"myeloid|||sample|||CID004698-1","Myeloid","UC5","CID004698-1","Pre","Remission","Inflamed","Rectum","Yes",177,1,7.81427266,0.655712076449695
+"myeloid|||sample|||CID004699-1","Myeloid","UC5","CID004699-1","Post","Remission","Non_Inflamed","Ascending_Colon","No",56,1,4.64795058,0.0404861717843292
+"myeloid|||sample|||CID004700-1","Myeloid","UC5","CID004700-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",42,1,3.37876611,0.152375573556704
+"myeloid|||sample|||CID004701-1","Myeloid","UC5","CID004701-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",56,1,6.15469493,0.0676198751195665
+"myeloid|||sample|||CID004702-1","Myeloid","UC5","CID004702-1","Post","Remission","Non_Inflamed","Rectum","Yes",75,1,2.15064041,0.00743454378177852
+"myeloid|||sample|||CID004703-1","Myeloid","UC6","CID004703-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",250,1,7.71323517,0.316925637170721
+"myeloid|||sample|||CID004704-1","Myeloid","UC6","CID004704-1","Pre","Non_Remission","Inflamed","Rectum","Yes",88,1,6.35836306,0.496564588139328
+"myeloid|||sample|||CID004705-1","Myeloid","UC6","CID004705-1","Post","Non_Remission","Inflamed","Descending_Colon","No",230,1,7.04820953,0.597352616554928
+"myeloid|||sample|||CID004706-1","Myeloid","UC6","CID004706-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",210,1,6.26718746,0.172880189283188
+"myeloid|||sample|||CID004707-1","Myeloid","UC6","CID004707-1","Post","Non_Remission","Inflamed","Rectum","Yes",178,1,6.65319648,0.584296626600969
+"myeloid|||sample|||CID004739-1","Myeloid","UC22","CID004739-1","Pre","Non_Remission","Inflamed","Ascending_Colon","No",122,1,6.83674024,0.417933248470471
+"myeloid|||sample|||CID004740-1","Myeloid","UC22","CID004740-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",128,1,5.27111852,0.32328623738877
+"myeloid|||sample|||CID004741-1","Myeloid","UC22","CID004741-1","Pre","Non_Remission","Non_Inflamed","Rectum","Yes",49,1,4.12438026,0.202462988774905
+"myeloid|||sample|||CID004742-1","Myeloid","UC22","CID004742-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",204,1,6.53476778,0.317806188534902
+"myeloid|||sample|||CID004743-1","Myeloid","UC22","CID004743-1","Post","Non_Remission","Inflamed","Sigmoid","No",74,1,3.60534561,-0.0064324541466824
+"myeloid|||sample|||CID004744-1","Myeloid","UC22","CID004744-1","Post","Non_Remission","Inflamed","Rectum","Yes",169,1,5.84600575,0.119278954601718
+"myeloid|||sample|||CID004745-1","Myeloid","UC7","CID004745-1","Pre","Non_Remission","Non_Inflamed","Descending_Colon","Yes",113,1,4.33923017,0.477879241637553
+"myeloid|||sample|||CID004746-1","Myeloid","UC7","CID004746-1","Pre","Non_Remission","Non_Inflamed","Sigmoid","Yes",140,1,3.21673859,-0.156263109258628
+"myeloid|||sample|||CID004747-1","Myeloid","UC7","CID004747-1","Pre","Non_Remission","Inflamed","Rectum","Yes",366,1,8.09057696,0.540808953920458
+"myeloid|||sample|||CID004748-1","Myeloid","UC7","CID004748-1","Post","Non_Remission","Non_Inflamed","Descending_Colon","Yes",49,1,3.58075402,-0.0508903323474632
+"myeloid|||sample|||CID004749-1","Myeloid","UC7","CID004749-1","Post","Non_Remission","Non_Inflamed","Sigmoid","Yes",56,1,1.00493405,-0.223847107047577
+"myeloid|||sample|||CID004750-1","Myeloid","UC7","CID004750-1","Post","Non_Remission","Inflamed","Rectum","Yes",179,1,4.81520882,-0.0868667491546787
+"myeloid|||sample|||CID005704-1","Myeloid","UC8","CID005704-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",153,1,7.74821914,0.673848728838782
+"myeloid|||sample|||CID005705-1","Myeloid","UC8","CID005705-1","Pre","Non_Remission","Inflamed","Rectum","Yes",131,1,7.58178734,0.919605617844781
+"myeloid|||sample|||CID005706-1","Myeloid","UC8","CID005706-1","Post","Non_Remission","Inflamed","Descending_Colon","No",203,1,5.48640948,0.142237440897469
+"myeloid|||sample|||CID005707-1","Myeloid","UC8","CID005707-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",302,1,8.67735052,0.737916554313803
+"myeloid|||sample|||CID005708-1","Myeloid","UC8","CID005708-1","Post","Non_Remission","Inflamed","Rectum","Yes",267,1,8.85170499,1.43971789471316
+"myeloid|||sample|||CID005713-1","Myeloid","UC9","CID005713-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",185,1,6.99828698,0.0842146526030459
+"myeloid|||sample|||CID005714-1","Myeloid","UC9","CID005714-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",74,1,6.1243129,0.0714076703810495
+"myeloid|||sample|||CID005715-1","Myeloid","UC9","CID005715-1","Pre","Non_Remission","Inflamed","Rectum","Yes",110,1,7.86942075,0.163097562296872
+"myeloid|||sample|||CID005716-1","Myeloid","UC9","CID005716-1","Post","Non_Remission","Non_Inflamed","Descending_Colon","Yes",56,1,4.68492519,-0.165611857217395
+"myeloid|||sample|||CID005717-1","Myeloid","UC9","CID005717-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",96,1,5.4689872,0.562948785813677
+"myeloid|||sample|||CID005718-1","Myeloid","UC9","CID005718-1","Post","Non_Remission","Inflamed","Rectum","Yes",75,1,6.64355453,0.685848174698736
+"myeloid|||sample|||CID005719-1","Myeloid","UC10","CID005719-1","Pre","Remission","Inflamed","Descending_Colon","Yes",26,1,7.54121805,-0.0614436174123952
+"myeloid|||sample|||CID005720-1","Myeloid","UC10","CID005720-1","Pre","Remission","Inflamed","Sigmoid","Yes",213,1,7.59441424,0.30563237071696
+"myeloid|||sample|||CID005721-1","Myeloid","UC10","CID005721-1","Pre","Remission","Inflamed","Rectum","Yes",151,1,8.20309848,0.536570014469048
+"myeloid|||sample|||CID005722-1","Myeloid","UC10","CID005722-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",65,1,2.63700988,-0.0376242571636016
+"myeloid|||sample|||CID005723-1","Myeloid","UC10","CID005723-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",91,1,3.10944641,0.155399688563413
+"myeloid|||sample|||CID005724-1","Myeloid","UC10","CID005724-1","Post","Remission","Non_Inflamed","Rectum","Yes",138,1,5.59386069,0.450733217743188
+"myeloid|||sample|||CID005725-1","Myeloid","UC11","CID005725-1","Pre","Remission","Non_Inflamed","Ascending_Colon","No",176,1,6.97217528,0.43827447851282
+"myeloid|||sample|||CID005726-1","Myeloid","UC11","CID005726-1","Pre","Remission","Inflamed","Rectum","Yes",246,1,7.21306103,0.804042416715543
+"myeloid|||sample|||CID005727-1","Myeloid","UC11","CID005727-1","Post","Remission","Non_Inflamed","Descending_Colon","No",34,1,1.76205789,0.0535519156940802
+"myeloid|||sample|||CID005728-1","Myeloid","UC11","CID005728-1","Post","Remission","Non_Inflamed","Sigmoid","No",28,1,0.95075361,-0.239811226096864
+"myeloid|||sample|||CID005729-1","Myeloid","UC11","CID005729-1","Post","Remission","Non_Inflamed","Rectum","Yes",27,1,2.27947021,0.101105736859885
+"myeloid|||sample|||CID005730-1","Myeloid","UC12","CID005730-1","Pre","Remission","Non_Inflamed","Descending_Colon","Yes",44,1,0.93753766,-0.179697615307979
+"myeloid|||sample|||CID005731-1","Myeloid","UC12","CID005731-1","Pre","Remission","Non_Inflamed","Sigmoid","Yes",59,1,2.44436943,-0.0252513752109794
+"myeloid|||sample|||CID005732-1","Myeloid","UC12","CID005732-1","Pre","Remission","Inflamed","Rectum","Yes",110,1,3.72337624,0.442293018994592
+"myeloid|||sample|||CID005733-1","Myeloid","UC12","CID005733-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",59,1,3.42279193,0.0745490329118651
+"myeloid|||sample|||CID005734-1","Myeloid","UC12","CID005734-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",71,1,0.88433591,-0.343817877157159
+"myeloid|||sample|||CID005735-1","Myeloid","UC12","CID005735-1","Post","Remission","Non_Inflamed","Rectum","Yes",36,1,2.88521437,0.190060378915291
+"myeloid|||sample|||CID005738-1","Myeloid","UC13","CID005738-1","Pre","Remission","Inflamed","Rectum","Yes",63,1,4.19486216,0.381806740325575
+"myeloid|||sample|||CID005739-1","Myeloid","UC13","CID005739-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",29,1,3.34964456,0.977145470393127
+"myeloid|||sample|||CID005740-1","Myeloid","UC13","CID005740-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",36,1,4.29749448,1.11315311781049
+"myeloid|||sample|||CID005742-1","Myeloid","UC14","CID005742-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",98,1,0.78464918,-0.250774611601644
+"myeloid|||sample|||CID005743-1","Myeloid","UC14","CID005743-1","Pre","Non_Remission","Inflamed","Rectum","Yes",228,1,7.74033644,0.789264124988464
+"myeloid|||sample|||CID005744-1","Myeloid","UC14","CID005744-1","Post","Non_Remission","Inflamed","Descending_Colon","No",130,1,6.98485524,0.253257802770247
+"myeloid|||sample|||CID005745-1","Myeloid","UC14","CID005745-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",254,1,8.69151491,0.997221507483396
+"myeloid|||sample|||CID005746-1","Myeloid","UC14","CID005746-1","Post","Non_Remission","Inflamed","Rectum","Yes",280,1,7.05128954,0.714943303423601
+"myeloid|||sample|||CID006562-1","Myeloid","UC15","CID006562-1","Pre","Non_Remission","Inflamed","Descending_Colon","No",49,1,5.96779763,0.0688850620680639
+"myeloid|||sample|||CID006563-1","Myeloid","UC15","CID006563-1","Pre","Non_Remission","Non_Inflamed","Rectum","Yes",43,1,6.47199456,0.210749277433636
+"myeloid|||sample|||CID006565-1","Myeloid","UC15","CID006565-1","Post","Non_Remission","Inflamed","Rectum","Yes",183,1,7.65027814,0.208926676304036
+"myeloid|||sample|||CID006566-1","Myeloid","UC16","CID006566-1","Pre","Non_Remission","Non_Inflamed","Ascending_Colon","Yes",86,1,7.64818173,0.0587538154141553
+"myeloid|||sample|||CID006567-1","Myeloid","UC16","CID006567-1","Pre","Non_Remission","Non_Inflamed","Descending_Colon","Yes",71,1,7.13157951,0.0914535060099101
+"myeloid|||sample|||CID006568-1","Myeloid","UC16","CID006568-1","Post","Non_Remission","Inflamed","Ascending_Colon","Yes",116,1,8.16793436,0.639187155881174
+"myeloid|||sample|||CID006569-1","Myeloid","UC16","CID006569-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",93,1,6.21836206,0.392043932675101
+"myeloid|||sample|||CID006570-1","Myeloid","UC16","CID006570-1","Post","Non_Remission","Inflamed","Rectum","No",68,1,3.11871709,-0.125831093992535
+"myeloid|||sample|||CID006571-1","Myeloid","UC17","CID006571-1","Pre","Remission","Inflamed","Descending_Colon","Yes",127,1,8.01915131,0.269415641663061
+"myeloid|||sample|||CID006572-1","Myeloid","UC17","CID006572-1","Pre","Remission","Inflamed","Rectum","No",208,1,7.37592399,0.0649359360876607
+"myeloid|||sample|||CID006573-1","Myeloid","UC17","CID006573-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",113,1,3.03428302,-0.238336929089917
+"myeloid|||sample|||CID006578-1","Myeloid","UC18","CID006578-1","Post","Non_Remission","Inflamed","Rectum","Yes",51,1,8.38520405,0.507134664571167
+"myeloid|||sample|||CID006581-1","Myeloid","UC20","CID006581-1","Pre","Non_Remission","Inflamed","Descending_Colon","No",180,1,8.81427301,0.39633837856315
+"myeloid|||sample|||CID006582-1","Myeloid","UC20","CID006582-1","Pre","Non_Remission","Inflamed","Rectum","No",127,1,7.43754394,-0.11340902216647
+"fibroblast_pericyte|||sample|||CID003352-2","Fibroblast/pericyte","UC1","CID003352-2","Post","Non_Remission","Inflamed","Rectum","Yes",908,1,7.98423196,0.105616905855903
+"fibroblast_pericyte|||sample|||CID003353-1","Fibroblast/pericyte","UC1","CID003353-1","Post","Non_Remission","Non_Inflamed","Descending_Colon","Yes",47,1,0.48461624,-0.334544566454276
+"fibroblast_pericyte|||sample|||CID003354-1","Fibroblast/pericyte","UC1","CID003354-1","Post","Non_Remission","Non_Inflamed","Ascending_Colon","Yes",259,1,1.75548643,-0.420858329495366
+"fibroblast_pericyte|||sample|||CID003356-1","Fibroblast/pericyte","UC1","CID003356-1","Pre","Non_Remission","Inflamed","Rectum","Yes",392,1,7.39283311,0.160925813931126
+"fibroblast_pericyte|||sample|||CID003357-1","Fibroblast/pericyte","UC1","CID003357-1","Pre","Non_Remission","Non_Inflamed","Terminal_Ileum","Yes",182,1,5.47327062,-0.197246954017389
+"fibroblast_pericyte|||sample|||CID003359-1","Fibroblast/pericyte","UC1","CID003359-1","Pre","Non_Remission","Non_Inflamed","Ascending_Colon","Yes",607,1,2.92984282,-0.332524656242552
+"fibroblast_pericyte|||sample|||CID003360-1","Fibroblast/pericyte","UC2","CID003360-1","Post","Non_Remission","Inflamed","Rectum","Yes",348,1,6.99213596,-0.120374215643077
+"fibroblast_pericyte|||sample|||CID003361-1","Fibroblast/pericyte","UC2","CID003361-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",194,1,5.96128762,0.177715790599671
+"fibroblast_pericyte|||sample|||CID003362-1","Fibroblast/pericyte","UC2","CID003362-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",649,1,2.94156876,-0.421546705622711
+"fibroblast_pericyte|||sample|||CID003363-1","Fibroblast/pericyte","UC2","CID003363-1","Pre","Non_Remission","Inflamed","Rectum","Yes",104,1,6.08680387,-0.10310951119144
+"fibroblast_pericyte|||sample|||CID003364-1","Fibroblast/pericyte","UC2","CID003364-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",211,1,6.65477771,-0.0234222888165506
+"fibroblast_pericyte|||sample|||CID003365-1","Fibroblast/pericyte","UC2","CID003365-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",188,1,2.21513802,-0.42177287505818
+"fibroblast_pericyte|||sample|||CID003366-1","Fibroblast/pericyte","UC3","CID003366-1","Post","Non_Remission","Inflamed","Rectum","Yes",217,1,8.75205377,0.0604633067605166
+"fibroblast_pericyte|||sample|||CID003367-2","Fibroblast/pericyte","UC3","CID003367-2","Post","Non_Remission","Inflamed","Descending_Colon","Yes",409,1,8.03358015,-0.0455565542906739
+"fibroblast_pericyte|||sample|||CID003368-1","Fibroblast/pericyte","UC3","CID003368-1","Post","Non_Remission","Inflamed","Ascending_Colon","Yes",254,1,6.63743862,-0.138246045529996
+"fibroblast_pericyte|||sample|||CID003369-1","Fibroblast/pericyte","UC3","CID003369-1","Post","Non_Remission","Non_Inflamed","Terminal_Ileum","Yes",376,1,6.54934835,-0.0895262096096246
+"fibroblast_pericyte|||sample|||CID003370-1","Fibroblast/pericyte","UC3","CID003370-1","Pre","Non_Remission","Non_Inflamed","Rectum","Yes",62,1,5.88044616,-0.0114258527365725
+"fibroblast_pericyte|||sample|||CID003371-2","Fibroblast/pericyte","UC3","CID003371-2","Pre","Non_Remission","Non_Inflamed","Descending_Colon","Yes",120,1,6.23295086,-0.0919681361276764
+"fibroblast_pericyte|||sample|||CID003372-1","Fibroblast/pericyte","UC3","CID003372-1","Pre","Non_Remission","Inflamed","Ascending_Colon","Yes",194,1,7.38663399,-0.150564343274679
+"fibroblast_pericyte|||sample|||CID003373-1","Fibroblast/pericyte","UC3","CID003373-1","Pre","Non_Remission","Non_Inflamed","Terminal_Ileum","Yes",175,1,4.15169843,-0.136080679646887
+"fibroblast_pericyte|||sample|||CID003665-1","Fibroblast/pericyte","UC4","CID003665-1","Pre","Non_Remission","Non_Inflamed","Terminal_Ileum","No",21,1,2.48212215,0.0583007595732573
+"fibroblast_pericyte|||sample|||CID003666-1","Fibroblast/pericyte","UC4","CID003666-1","Pre","Non_Remission","Inflamed","Ascending_Colon","No",220,1,0,-0.449836419515716
+"fibroblast_pericyte|||sample|||CID003667-1","Fibroblast/pericyte","UC4","CID003667-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",563,1,8.98094546,0.0504144715953204
+"fibroblast_pericyte|||sample|||CID003669-1","Fibroblast/pericyte","UC4","CID003669-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",488,1,8.91659501,0.33285232182194
+"fibroblast_pericyte|||sample|||CID003670-1","Fibroblast/pericyte","UC4","CID003670-1","Post","Non_Remission","Inflamed","Sigmoid","No",317,1,8.27533425,0.395047646157292
+"fibroblast_pericyte|||sample|||CID004696-1","Fibroblast/pericyte","UC5","CID004696-1","Pre","Remission","Inflamed","Descending_Colon","Yes",454,1,7.53654144,0.29481339123817
+"fibroblast_pericyte|||sample|||CID004697-1","Fibroblast/pericyte","UC5","CID004697-1","Pre","Remission","Inflamed","Sigmoid","Yes",518,1,8.04981875,0.344765143269774
+"fibroblast_pericyte|||sample|||CID004698-1","Fibroblast/pericyte","UC5","CID004698-1","Pre","Remission","Inflamed","Rectum","Yes",365,1,7.81427266,0.187702994187915
+"fibroblast_pericyte|||sample|||CID004699-1","Fibroblast/pericyte","UC5","CID004699-1","Post","Remission","Non_Inflamed","Ascending_Colon","No",559,1,4.64795058,-0.216349378514385
+"fibroblast_pericyte|||sample|||CID004700-1","Fibroblast/pericyte","UC5","CID004700-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",657,1,3.37876611,-0.370790221070115
+"fibroblast_pericyte|||sample|||CID004701-1","Fibroblast/pericyte","UC5","CID004701-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",1071,1,6.15469493,-0.285926476724931
+"fibroblast_pericyte|||sample|||CID004702-1","Fibroblast/pericyte","UC5","CID004702-1","Post","Remission","Non_Inflamed","Rectum","Yes",1359,1,2.15064041,-0.460799505330881
+"fibroblast_pericyte|||sample|||CID004703-1","Fibroblast/pericyte","UC6","CID004703-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",920,1,7.71323517,0.0103464750698553
+"fibroblast_pericyte|||sample|||CID004704-1","Fibroblast/pericyte","UC6","CID004704-1","Pre","Non_Remission","Inflamed","Rectum","Yes",993,1,6.35836306,-0.153242725341048
+"fibroblast_pericyte|||sample|||CID004705-1","Fibroblast/pericyte","UC6","CID004705-1","Post","Non_Remission","Inflamed","Descending_Colon","No",191,1,7.04820953,-0.0498389891106772
+"fibroblast_pericyte|||sample|||CID004706-1","Fibroblast/pericyte","UC6","CID004706-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",364,1,6.26718746,-0.165808130759911
+"fibroblast_pericyte|||sample|||CID004707-1","Fibroblast/pericyte","UC6","CID004707-1","Post","Non_Remission","Inflamed","Rectum","Yes",312,1,6.65319648,0.0434908861945837
+"fibroblast_pericyte|||sample|||CID004739-1","Fibroblast/pericyte","UC22","CID004739-1","Pre","Non_Remission","Inflamed","Ascending_Colon","No",758,1,6.83674024,0.0568894914085772
+"fibroblast_pericyte|||sample|||CID004740-1","Fibroblast/pericyte","UC22","CID004740-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",741,1,5.27111852,-0.248684237563854
+"fibroblast_pericyte|||sample|||CID004741-1","Fibroblast/pericyte","UC22","CID004741-1","Pre","Non_Remission","Non_Inflamed","Rectum","Yes",1586,1,4.12438026,-0.31667694890677
+"fibroblast_pericyte|||sample|||CID004742-1","Fibroblast/pericyte","UC22","CID004742-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",468,1,6.53476778,0.116564454481521
+"fibroblast_pericyte|||sample|||CID004743-1","Fibroblast/pericyte","UC22","CID004743-1","Post","Non_Remission","Inflamed","Sigmoid","No",788,1,3.60534561,-0.43183918456831
+"fibroblast_pericyte|||sample|||CID004744-1","Fibroblast/pericyte","UC22","CID004744-1","Post","Non_Remission","Inflamed","Rectum","Yes",603,1,5.84600575,-0.0540723049846117
+"fibroblast_pericyte|||sample|||CID004745-1","Fibroblast/pericyte","UC7","CID004745-1","Pre","Non_Remission","Non_Inflamed","Descending_Colon","Yes",694,1,4.33923017,-0.244844786785428
+"fibroblast_pericyte|||sample|||CID004746-1","Fibroblast/pericyte","UC7","CID004746-1","Pre","Non_Remission","Non_Inflamed","Sigmoid","Yes",1076,1,3.21673859,-0.404952279680733
+"fibroblast_pericyte|||sample|||CID004747-1","Fibroblast/pericyte","UC7","CID004747-1","Pre","Non_Remission","Inflamed","Rectum","Yes",324,1,8.09057696,0.0252164837873141
+"fibroblast_pericyte|||sample|||CID004748-1","Fibroblast/pericyte","UC7","CID004748-1","Post","Non_Remission","Non_Inflamed","Descending_Colon","Yes",642,1,3.58075402,-0.399118507012005
+"fibroblast_pericyte|||sample|||CID004749-1","Fibroblast/pericyte","UC7","CID004749-1","Post","Non_Remission","Non_Inflamed","Sigmoid","Yes",341,1,1.00493405,-0.466170075588155
+"fibroblast_pericyte|||sample|||CID004750-1","Fibroblast/pericyte","UC7","CID004750-1","Post","Non_Remission","Inflamed","Rectum","Yes",456,1,4.81520882,-0.331780983517668
+"fibroblast_pericyte|||sample|||CID005704-1","Fibroblast/pericyte","UC8","CID005704-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",2227,1,7.74821914,0.061487970279695
+"fibroblast_pericyte|||sample|||CID005705-1","Fibroblast/pericyte","UC8","CID005705-1","Pre","Non_Remission","Inflamed","Rectum","Yes",1666,1,7.58178734,0.0979946127881243
+"fibroblast_pericyte|||sample|||CID005706-1","Fibroblast/pericyte","UC8","CID005706-1","Post","Non_Remission","Inflamed","Descending_Colon","No",447,1,5.48640948,-0.118847488180199
+"fibroblast_pericyte|||sample|||CID005707-1","Fibroblast/pericyte","UC8","CID005707-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",440,1,8.67735052,-0.232960533764305
+"fibroblast_pericyte|||sample|||CID005708-1","Fibroblast/pericyte","UC8","CID005708-1","Post","Non_Remission","Inflamed","Rectum","Yes",255,1,8.85170499,-0.0375338566891082
+"fibroblast_pericyte|||sample|||CID005713-1","Fibroblast/pericyte","UC9","CID005713-1","Pre","Non_Remission","Inflamed","Descending_Colon","Yes",770,1,6.99828698,-0.042315448152141
+"fibroblast_pericyte|||sample|||CID005714-1","Fibroblast/pericyte","UC9","CID005714-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",388,1,6.1243129,-0.232932959517679
+"fibroblast_pericyte|||sample|||CID005715-1","Fibroblast/pericyte","UC9","CID005715-1","Pre","Non_Remission","Inflamed","Rectum","Yes",1131,1,7.86942075,-0.139152202866193
+"fibroblast_pericyte|||sample|||CID005716-1","Fibroblast/pericyte","UC9","CID005716-1","Post","Non_Remission","Non_Inflamed","Descending_Colon","Yes",201,1,4.68492519,-0.329359622445589
+"fibroblast_pericyte|||sample|||CID005717-1","Fibroblast/pericyte","UC9","CID005717-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",281,1,5.4689872,-0.254160885625506
+"fibroblast_pericyte|||sample|||CID005718-1","Fibroblast/pericyte","UC9","CID005718-1","Post","Non_Remission","Inflamed","Rectum","Yes",328,1,6.64355453,-0.174094913038029
+"fibroblast_pericyte|||sample|||CID005719-1","Fibroblast/pericyte","UC10","CID005719-1","Pre","Remission","Inflamed","Descending_Colon","Yes",73,1,7.54121805,-0.222507286322114
+"fibroblast_pericyte|||sample|||CID005720-1","Fibroblast/pericyte","UC10","CID005720-1","Pre","Remission","Inflamed","Sigmoid","Yes",425,1,7.59441424,-0.254581233437259
+"fibroblast_pericyte|||sample|||CID005721-1","Fibroblast/pericyte","UC10","CID005721-1","Pre","Remission","Inflamed","Rectum","Yes",432,1,8.20309848,-0.138538412031256
+"fibroblast_pericyte|||sample|||CID005722-1","Fibroblast/pericyte","UC10","CID005722-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",533,1,2.63700988,-0.355969726329611
+"fibroblast_pericyte|||sample|||CID005723-1","Fibroblast/pericyte","UC10","CID005723-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",768,1,3.10944641,-0.338608502943335
+"fibroblast_pericyte|||sample|||CID005724-1","Fibroblast/pericyte","UC10","CID005724-1","Post","Remission","Non_Inflamed","Rectum","Yes",1696,1,5.59386069,-0.196854778066815
+"fibroblast_pericyte|||sample|||CID005725-1","Fibroblast/pericyte","UC11","CID005725-1","Pre","Remission","Non_Inflamed","Ascending_Colon","No",1261,1,6.97217528,-0.153218267925357
+"fibroblast_pericyte|||sample|||CID005726-1","Fibroblast/pericyte","UC11","CID005726-1","Pre","Remission","Inflamed","Rectum","Yes",665,1,7.21306103,0.194803388907217
+"fibroblast_pericyte|||sample|||CID005727-1","Fibroblast/pericyte","UC11","CID005727-1","Post","Remission","Non_Inflamed","Descending_Colon","No",453,1,1.76205789,-0.376325236144103
+"fibroblast_pericyte|||sample|||CID005728-1","Fibroblast/pericyte","UC11","CID005728-1","Post","Remission","Non_Inflamed","Sigmoid","No",684,1,0.95075361,-0.417223648858121
+"fibroblast_pericyte|||sample|||CID005729-1","Fibroblast/pericyte","UC11","CID005729-1","Post","Remission","Non_Inflamed","Rectum","Yes",497,1,2.27947021,-0.345601165034144
+"fibroblast_pericyte|||sample|||CID005730-1","Fibroblast/pericyte","UC12","CID005730-1","Pre","Remission","Non_Inflamed","Descending_Colon","Yes",1097,1,0.93753766,-0.45518146658628
+"fibroblast_pericyte|||sample|||CID005731-1","Fibroblast/pericyte","UC12","CID005731-1","Pre","Remission","Non_Inflamed","Sigmoid","Yes",1604,1,2.44436943,-0.36423481071459
+"fibroblast_pericyte|||sample|||CID005732-1","Fibroblast/pericyte","UC12","CID005732-1","Pre","Remission","Inflamed","Rectum","Yes",537,1,3.72337624,-0.285726448587163
+"fibroblast_pericyte|||sample|||CID005733-1","Fibroblast/pericyte","UC12","CID005733-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",1511,1,3.42279193,-0.336261495340417
+"fibroblast_pericyte|||sample|||CID005734-1","Fibroblast/pericyte","UC12","CID005734-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",1356,1,0.88433591,-0.489854040122315
+"fibroblast_pericyte|||sample|||CID005735-1","Fibroblast/pericyte","UC12","CID005735-1","Post","Remission","Non_Inflamed","Rectum","Yes",1000,1,2.88521437,-0.299236030986143
+"fibroblast_pericyte|||sample|||CID005736-1","Fibroblast/pericyte","UC13","CID005736-1","Pre","Remission","Non_Inflamed","Descending_Colon","Yes",403,1,1.95067375,-0.347542199466711
+"fibroblast_pericyte|||sample|||CID005737-1","Fibroblast/pericyte","UC13","CID005737-1","Pre","Remission","Inflamed","Sigmoid","Yes",462,1,2.01656611,-0.278807454702348
+"fibroblast_pericyte|||sample|||CID005738-1","Fibroblast/pericyte","UC13","CID005738-1","Pre","Remission","Inflamed","Rectum","Yes",444,1,4.19486216,-0.292542542624411
+"fibroblast_pericyte|||sample|||CID005739-1","Fibroblast/pericyte","UC13","CID005739-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",685,1,3.34964456,-0.258650330969108
+"fibroblast_pericyte|||sample|||CID005740-1","Fibroblast/pericyte","UC13","CID005740-1","Post","Remission","Non_Inflamed","Sigmoid","Yes",671,1,4.29749448,-0.0926042652142993
+"fibroblast_pericyte|||sample|||CID005741-1","Fibroblast/pericyte","UC13","CID005741-1","Post","Remission","Non_Inflamed","Rectum","Yes",571,1,5.33127671,-0.220188903328975
+"fibroblast_pericyte|||sample|||CID005742-1","Fibroblast/pericyte","UC14","CID005742-1","Pre","Non_Remission","Inflamed","Sigmoid","Yes",655,1,0.78464918,-0.458437574925881
+"fibroblast_pericyte|||sample|||CID005743-1","Fibroblast/pericyte","UC14","CID005743-1","Pre","Non_Remission","Inflamed","Rectum","Yes",227,1,7.74033644,-0.0288895934784169
+"fibroblast_pericyte|||sample|||CID005744-1","Fibroblast/pericyte","UC14","CID005744-1","Post","Non_Remission","Inflamed","Descending_Colon","No",241,1,6.98485524,0.126622739922714
+"fibroblast_pericyte|||sample|||CID005745-1","Fibroblast/pericyte","UC14","CID005745-1","Post","Non_Remission","Inflamed","Sigmoid","Yes",349,1,8.69151491,0.254397823842832
+"fibroblast_pericyte|||sample|||CID005746-1","Fibroblast/pericyte","UC14","CID005746-1","Post","Non_Remission","Inflamed","Rectum","Yes",181,1,7.05128954,-0.101190675383706
+"fibroblast_pericyte|||sample|||CID006562-1","Fibroblast/pericyte","UC15","CID006562-1","Pre","Non_Remission","Inflamed","Descending_Colon","No",228,1,5.96779763,-0.177149371416227
+"fibroblast_pericyte|||sample|||CID006563-1","Fibroblast/pericyte","UC15","CID006563-1","Pre","Non_Remission","Non_Inflamed","Rectum","Yes",838,1,6.47199456,-0.369637306284872
+"fibroblast_pericyte|||sample|||CID006565-1","Fibroblast/pericyte","UC15","CID006565-1","Post","Non_Remission","Inflamed","Rectum","Yes",51,1,7.65027814,-0.0737909930762105
+"fibroblast_pericyte|||sample|||CID006566-1","Fibroblast/pericyte","UC16","CID006566-1","Pre","Non_Remission","Non_Inflamed","Ascending_Colon","Yes",285,1,7.64818173,-0.172413285792313
+"fibroblast_pericyte|||sample|||CID006567-1","Fibroblast/pericyte","UC16","CID006567-1","Pre","Non_Remission","Non_Inflamed","Descending_Colon","Yes",328,1,7.13157951,-0.368481434703351
+"fibroblast_pericyte|||sample|||CID006568-1","Fibroblast/pericyte","UC16","CID006568-1","Post","Non_Remission","Inflamed","Ascending_Colon","Yes",112,1,8.16793436,0.0662403078634058
+"fibroblast_pericyte|||sample|||CID006569-1","Fibroblast/pericyte","UC16","CID006569-1","Post","Non_Remission","Inflamed","Descending_Colon","Yes",217,1,6.21836206,-0.215728234298742
+"fibroblast_pericyte|||sample|||CID006570-1","Fibroblast/pericyte","UC16","CID006570-1","Post","Non_Remission","Inflamed","Rectum","No",345,1,3.11871709,-0.469322380711613
+"fibroblast_pericyte|||sample|||CID006571-1","Fibroblast/pericyte","UC17","CID006571-1","Pre","Remission","Inflamed","Descending_Colon","Yes",269,1,8.01915131,-0.158712297512635
+"fibroblast_pericyte|||sample|||CID006572-1","Fibroblast/pericyte","UC17","CID006572-1","Pre","Remission","Inflamed","Rectum","No",662,1,7.37592399,-0.0726911054154021
+"fibroblast_pericyte|||sample|||CID006573-1","Fibroblast/pericyte","UC17","CID006573-1","Post","Remission","Non_Inflamed","Descending_Colon","Yes",277,1,3.03428302,-0.433166067736604
+"fibroblast_pericyte|||sample|||CID006577-1","Fibroblast/pericyte","UC18","CID006577-1","Pre","Non_Remission","Inflamed","Rectum","Yes",57,1,7.37158469,0.134150697921706
+"fibroblast_pericyte|||sample|||CID006578-1","Fibroblast/pericyte","UC18","CID006578-1","Post","Non_Remission","Inflamed","Rectum","Yes",127,1,8.38520405,0.652279226682637
+"fibroblast_pericyte|||sample|||CID006581-1","Fibroblast/pericyte","UC20","CID006581-1","Pre","Non_Remission","Inflamed","Descending_Colon","No",157,1,8.81427301,0.991907919382318
+"fibroblast_pericyte|||sample|||CID006582-1","Fibroblast/pericyte","UC20","CID006582-1","Pre","Non_Remission","Inflamed","Rectum","No",525,1,7.43754394,-0.233332402004025

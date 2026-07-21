@@ -1,0 +1,82 @@
+"panel","id","x","y","label","cohort","mechanism","n","events","accession","x_end","y_end","x_start","y_start","edge_type","branch","reason","n_samples","share_of_accession_samples","raw_accession_samples","final_participants","cohort_short","cohorts","participants","evidence_unit","branch_display"
+"a_accession_nodes","GSE16879",0,6.8,"GSE16879",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_nodes","GSE73661",0,5.4,"GSE73661",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_nodes","GSE23597",0,4,"GSE23597",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_nodes","GSE92415",0,2.6,"GSE92415",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_nodes","GSE206285",0,1.2,"GSE206285",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_cohort_nodes","GSE16879 IFX",1,7,"IFX · 16879
+n=24","GSE16879 IFX","anti-TNF",24,8,"GSE16879",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_cohort_nodes","GSE73661 IFX",1,6,"IFX · 73661
+n=23","GSE73661 IFX","anti-TNF",23,8,"GSE73661",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_cohort_nodes","GSE23597 IFX",1,5,"IFX · 23597
+n=31","GSE23597 IFX","anti-TNF",31,24,"GSE23597",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_cohort_nodes","GSE92415 golimumab",1,4,"GLM · 92415
+n=59","GSE92415 golimumab","anti-TNF",59,32,"GSE92415",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_cohort_nodes","GSE206285 ustekinumab",1,3,"UST · 206285
+n=364","GSE206285 ustekinumab","anti-IL12/23",364,49,"GSE206285",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_cohort_nodes","GSE73661 VDZ trial",1,2,"VDZ trial · 73661
+n=27","GSE73661 VDZ trial","anti-integrin",27,6,"GSE73661",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_cohort_nodes","GSE73661 VDZ observational",1,1,"VDZ obs · 73661
+n=13","GSE73661 VDZ observational","anti-integrin",13,3,"GSE73661",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_nodes","baseline",2,6.1,"Baseline prognosis
+7 cohorts · n=541",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_nodes","rct",2,3.8,"Randomized interaction
+3 comparisons · n=681",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_nodes","longitudinal",2,1.5,"Active longitudinal
+6 cohorts · n=154",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_edges","GSE16879 IFX",NA,NA,NA,NA,"anti-TNF",NA,NA,"GSE16879",1,7,0,6.8,"Accession to active cohort",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_edges","GSE73661 IFX",NA,NA,NA,NA,"anti-TNF",NA,NA,"GSE73661",1,6,0,5.4,"Accession to active cohort",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_edges","GSE73661 VDZ trial",NA,NA,NA,NA,"anti-integrin",NA,NA,"GSE73661",1,2,0,5.4,"Accession to active cohort",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_edges","GSE73661 VDZ observational",NA,NA,NA,NA,"anti-integrin",NA,NA,"GSE73661",1,1,0,5.4,"Accession to active cohort",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_edges","GSE23597 IFX",NA,NA,NA,NA,"anti-TNF",NA,NA,"GSE23597",1,5,0,4,"Accession to active cohort",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_edges","GSE92415 golimumab",NA,NA,NA,NA,"anti-TNF",NA,NA,"GSE92415",1,4,0,2.6,"Accession to active cohort",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_accession_edges","GSE206285 ustekinumab",NA,NA,NA,NA,"anti-IL12/23",NA,NA,"GSE206285",1,3,0,1.2,"Accession to active cohort",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE16879 IFX","anti-TNF",NA,NA,NA,2,6.1,1,7,"Active cohort to evidence branch","baseline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE16879 IFX","anti-TNF",NA,NA,NA,2,1.5,1,7,"Active cohort to evidence branch","longitudinal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE73661 IFX","anti-TNF",NA,NA,NA,2,6.1,1,6,"Active cohort to evidence branch","baseline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE73661 IFX","anti-TNF",NA,NA,NA,2,1.5,1,6,"Active cohort to evidence branch","longitudinal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE23597 IFX","anti-TNF",NA,NA,NA,2,6.1,1,5,"Active cohort to evidence branch","baseline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE23597 IFX","anti-TNF",NA,NA,NA,2,3.8,1,5,"Active cohort to evidence branch","rct",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE23597 IFX","anti-TNF",NA,NA,NA,2,1.5,1,5,"Active cohort to evidence branch","longitudinal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE92415 golimumab","anti-TNF",NA,NA,NA,2,6.1,1,4,"Active cohort to evidence branch","baseline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE92415 golimumab","anti-TNF",NA,NA,NA,2,3.8,1,4,"Active cohort to evidence branch","rct",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE92415 golimumab","anti-TNF",NA,NA,NA,2,1.5,1,4,"Active cohort to evidence branch","longitudinal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE206285 ustekinumab","anti-IL12/23",NA,NA,NA,2,6.1,1,3,"Active cohort to evidence branch","baseline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE206285 ustekinumab","anti-IL12/23",NA,NA,NA,2,3.8,1,3,"Active cohort to evidence branch","rct",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE73661 VDZ trial","anti-integrin",NA,NA,NA,2,6.1,1,2,"Active cohort to evidence branch","baseline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE73661 VDZ trial","anti-integrin",NA,NA,NA,2,1.5,1,2,"Active cohort to evidence branch","longitudinal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE73661 VDZ observational","anti-integrin",NA,NA,NA,2,6.1,1,1,"Active cohort to evidence branch","baseline",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"a_branch_edges",NA,NA,NA,NA,"GSE73661 VDZ observational","anti-integrin",NA,NA,NA,2,1.5,1,1,"Active cohort to evidence branch","longitudinal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE16879 IFX",NA,NA,NA,"GSE16879",NA,NA,NA,NA,NA,NA,"Included independent participant",24,0.180451127819549,133,24,"IFX · 16879",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE16879 IFX",NA,NA,NA,"GSE16879",NA,NA,NA,NA,NA,NA,"Non-baseline/follow-up sample",24,0.180451127819549,133,24,"IFX · 16879",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE16879 IFX",NA,NA,NA,"GSE16879",NA,NA,NA,NA,NA,NA,"Non-UC/control sample",85,0.639097744360902,133,24,"IFX · 16879",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 IFX",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Included independent participant",23,0.129213483146067,178,23,"IFX · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 IFX",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Non-baseline/follow-up sample",99,0.556179775280899,178,23,"IFX · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 IFX",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Non-UC/control sample",12,0.0674157303370786,178,23,"IFX · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 IFX",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Other treatment arm or cohort branch",44,0.247191011235955,178,23,"IFX · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 VDZ trial",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Included independent participant",27,0.151685393258427,178,27,"VDZ trial · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 VDZ trial",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Missing or unusable outcome",1,0.00561797752808989,178,27,"VDZ trial · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 VDZ trial",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Non-baseline/follow-up sample",99,0.556179775280899,178,27,"VDZ trial · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 VDZ trial",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Non-UC/control sample",12,0.0674157303370786,178,27,"VDZ trial · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 VDZ trial",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Other treatment arm or cohort branch",39,0.219101123595506,178,27,"VDZ trial · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 VDZ observational",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Included independent participant",13,0.0730337078651685,178,13,"VDZ obs · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 VDZ observational",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Non-baseline/follow-up sample",99,0.556179775280899,178,13,"VDZ obs · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 VDZ observational",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Non-UC/control sample",12,0.0674157303370786,178,13,"VDZ obs · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE73661 VDZ observational",NA,NA,NA,"GSE73661",NA,NA,NA,NA,NA,NA,"Other treatment arm or cohort branch",54,0.303370786516854,178,13,"VDZ obs · 73661",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE23597 IFX",NA,NA,NA,"GSE23597",NA,NA,NA,NA,NA,NA,"Duplicate baseline biopsy collapsed within participant",1,0.00884955752212389,113,31,"IFX · 23597",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE23597 IFX",NA,NA,NA,"GSE23597",NA,NA,NA,NA,NA,NA,"Included independent participant",31,0.274336283185841,113,31,"IFX · 23597",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE23597 IFX",NA,NA,NA,"GSE23597",NA,NA,NA,NA,NA,NA,"Non-baseline/follow-up sample",68,0.601769911504425,113,31,"IFX · 23597",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE23597 IFX",NA,NA,NA,"GSE23597",NA,NA,NA,NA,NA,NA,"Other treatment arm or cohort branch",13,0.115044247787611,113,31,"IFX · 23597",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE92415 golimumab",NA,NA,NA,"GSE92415",NA,NA,NA,NA,NA,NA,"Included independent participant",59,0.322404371584699,183,59,"GLM · 92415",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE92415 golimumab",NA,NA,NA,"GSE92415",NA,NA,NA,NA,NA,NA,"Non-baseline/follow-up sample",75,0.409836065573771,183,59,"GLM · 92415",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE92415 golimumab",NA,NA,NA,"GSE92415",NA,NA,NA,NA,NA,NA,"Non-UC/control sample",21,0.114754098360656,183,59,"GLM · 92415",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE92415 golimumab",NA,NA,NA,"GSE92415",NA,NA,NA,NA,NA,NA,"Other treatment arm or cohort branch",28,0.153005464480874,183,59,"GLM · 92415",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE206285 ustekinumab",NA,NA,NA,"GSE206285",NA,NA,NA,NA,NA,NA,"Included independent participant",364,0.640845070422535,568,364,"UST · 206285",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE206285 ustekinumab",NA,NA,NA,"GSE206285",NA,NA,NA,NA,NA,NA,"Non-UC/control sample",18,0.0316901408450704,568,364,"UST · 206285",NA,NA,NA,NA
+"b_sample_disposition",NA,NA,NA,NA,"GSE206285 ustekinumab",NA,NA,NA,"GSE206285",NA,NA,NA,NA,NA,NA,"Other treatment arm or cohort branch",186,0.327464788732394,568,364,"UST · 206285",NA,NA,NA,NA
+"c_evidence_branch_counts",NA,NA,NA,NA,NA,NA,NA,130,NA,NA,NA,NA,NA,NA,"Baseline prognosis",NA,NA,NA,NA,NA,NA,7,541,"treated participant","Baseline
+prognosis"
+"c_evidence_branch_counts",NA,NA,NA,NA,NA,NA,NA,135,NA,NA,NA,NA,NA,NA,"Randomized interaction",NA,NA,NA,NA,NA,NA,3,681,"randomized participant","Randomized
+interaction"
+"c_evidence_branch_counts",NA,NA,NA,NA,NA,NA,NA,67,NA,NA,NA,NA,NA,NA,"Active longitudinal",NA,NA,NA,NA,NA,NA,6,154,"paired treated participant","Active
+longitudinal"
