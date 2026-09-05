@@ -11,4 +11,6 @@ authors:
   - family-names: Xue
     given-names: Linghan
 repository-code: "https://github.com/JiangMengyao/uc-biologic-response-transcriptomics"
-date-released: "2026-07-21"
+version: "v-1.1.0"
+doi: "10.5281/zenodo.22316197"
+date-released: "2026-09-05"
