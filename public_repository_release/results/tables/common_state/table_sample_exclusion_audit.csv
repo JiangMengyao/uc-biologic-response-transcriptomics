@@ -1,0 +1,28 @@
+"accession","cohort","reason","n_samples","share_of_accession_samples","raw_accession_samples","final_participants"
+"GSE16879","GSE16879 IFX","Included independent participant",24,0.180451127819549,133,24
+"GSE16879","GSE16879 IFX","Non-baseline/follow-up sample",24,0.180451127819549,133,24
+"GSE16879","GSE16879 IFX","Non-UC/control sample",85,0.639097744360902,133,24
+"GSE73661","GSE73661 IFX","Included independent participant",23,0.129213483146067,178,23
+"GSE73661","GSE73661 IFX","Non-baseline/follow-up sample",99,0.556179775280899,178,23
+"GSE73661","GSE73661 IFX","Non-UC/control sample",12,0.0674157303370786,178,23
+"GSE73661","GSE73661 IFX","Other treatment arm or cohort branch",44,0.247191011235955,178,23
+"GSE73661","GSE73661 VDZ trial","Included independent participant",27,0.151685393258427,178,27
+"GSE73661","GSE73661 VDZ trial","Missing or unusable outcome",1,0.00561797752808989,178,27
+"GSE73661","GSE73661 VDZ trial","Non-baseline/follow-up sample",99,0.556179775280899,178,27
+"GSE73661","GSE73661 VDZ trial","Non-UC/control sample",12,0.0674157303370786,178,27
+"GSE73661","GSE73661 VDZ trial","Other treatment arm or cohort branch",39,0.219101123595506,178,27
+"GSE73661","GSE73661 VDZ observational","Included independent participant",13,0.0730337078651685,178,13
+"GSE73661","GSE73661 VDZ observational","Non-baseline/follow-up sample",99,0.556179775280899,178,13
+"GSE73661","GSE73661 VDZ observational","Non-UC/control sample",12,0.0674157303370786,178,13
+"GSE73661","GSE73661 VDZ observational","Other treatment arm or cohort branch",54,0.303370786516854,178,13
+"GSE23597","GSE23597 IFX","Duplicate baseline biopsy collapsed within participant",1,0.00884955752212389,113,31
+"GSE23597","GSE23597 IFX","Included independent participant",31,0.274336283185841,113,31
+"GSE23597","GSE23597 IFX","Non-baseline/follow-up sample",68,0.601769911504425,113,31
+"GSE23597","GSE23597 IFX","Other treatment arm or cohort branch",13,0.115044247787611,113,31
+"GSE92415","GSE92415 golimumab","Included independent participant",59,0.322404371584699,183,59
+"GSE92415","GSE92415 golimumab","Non-baseline/follow-up sample",75,0.409836065573771,183,59
+"GSE92415","GSE92415 golimumab","Non-UC/control sample",21,0.114754098360656,183,59
+"GSE92415","GSE92415 golimumab","Other treatment arm or cohort branch",28,0.153005464480874,183,59
+"GSE206285","GSE206285 ustekinumab","Included independent participant",364,0.640845070422535,568,364
+"GSE206285","GSE206285 ustekinumab","Non-UC/control sample",18,0.0316901408450704,568,364
+"GSE206285","GSE206285 ustekinumab","Other treatment arm or cohort branch",186,0.327464788732394,568,364

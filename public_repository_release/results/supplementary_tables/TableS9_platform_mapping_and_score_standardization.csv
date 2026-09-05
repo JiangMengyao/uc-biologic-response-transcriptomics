@@ -1,0 +1,6 @@
+accession,platform,bulk_assay,baseline_profiles,baseline_participants,expression_features,mapped_symbols,mapped_signature_genes,signature_coverage_percent,baseline_center,baseline_sd
+GSE92415,GPL13158,Affymetrix microarray,87,87,54715,21316,200,100.0,0.12240590,0.31733568
+GSE16879,GPL570,Affymetrix microarray,24,24,54675,21357,200,100.0,0.21812010,0.23257056
+GSE23597,GPL570,Affymetrix microarray,45,44,54675,21357,200,100.0,0.15376687,0.27192775
+GSE73661,GPL6244,Affymetrix microarray,67,67,33252,23307,198,99.0,0.19450389,0.32979492
+GSE206285,GPL13158,Affymetrix microarray,550,550,54715,21316,200,100.0,0.01083689,0.32303359

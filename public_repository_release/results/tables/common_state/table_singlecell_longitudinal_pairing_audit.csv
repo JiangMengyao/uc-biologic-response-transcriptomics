@@ -1,0 +1,4 @@
+"compartment","match_yes_pre_samples","match_yes_post_samples","paired_donor_sites","paired_donors","remission_donors","nonremission_donors","exact_pairing"
+"Colonic epithelium",41,41,40,18,6,12,TRUE
+"Myeloid",40,43,39,17,5,12,TRUE
+"Fibroblast/pericyte",43,43,42,19,6,13,TRUE
