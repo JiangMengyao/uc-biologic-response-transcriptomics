@@ -38,4 +38,4 @@ Bulk transcriptomic inputs are from NCBI GEO: GSE16879, GSE73661, GSE23597, GSE9
 
 ## Citation
 
-If you use this workflow, please cite the associated manuscript and this repository. Citation metadata are provided in `CITATION.cff`. The revision-specific audit package is released as `v-1.1.0`; its corresponding versioned archive DOI will be added after Zenodo minting.
+If you use this workflow, please cite the associated manuscript and this repository. Citation metadata are provided in `CITATION.cff`. The revision-specific audit package is released as `v-1.1.0` and archived at Zenodo (doi:10.5281/zenodo.22316197).
